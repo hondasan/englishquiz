@@ -1,0 +1,68 @@
+[
+  {
+    "question": "What does the word 'abundant' mean?",
+    "choices": [
+      { "text": "豊富な" },
+      { "text": "不足している" },
+      { "text": "急速な" },
+      { "text": "混乱した" }
+    ],
+    "correct": 0,
+    "explanation": "「abundant」は『豊富な』という意味です。"
+  },
+  {
+    "question": "What does 'meticulous' mean?",
+    "choices": [
+      { "text": "無頓着な" },
+      { "text": "几帳面な" },
+      { "text": "曖昧な" },
+      { "text": "退屈な" }
+    ],
+    "correct": 1,
+    "explanation": "「meticulous」は『几帳面な』や『細心な』という意味です。"
+  },
+  {
+    "question": "What does 'innovative' mean?",
+    "choices": [
+      { "text": "革新的な" },
+      { "text": "伝統的な" },
+      { "text": "模倣的な" },
+      { "text": "保守的な" }
+    ],
+    "correct": 0,
+    "explanation": "「innovative」は『革新的な』という意味です。"
+  },
+  {
+    "question": "What does 'versatile' mean?",
+    "choices": [
+      { "text": "多才な" },
+      { "text": "単調な" },
+      { "text": "限定的な" },
+      { "text": "不安定な" }
+    ],
+    "correct": 0,
+    "explanation": "「versatile」は『多才な』という意味です。"
+  },
+  {
+    "question": "What does 'contemporary' mean?",
+    "choices": [
+      { "text": "未来の" },
+      { "text": "同時代の" },
+      { "text": "過去の" },
+      { "text": "伝統的な" }
+    ],
+    "correct": 1,
+    "explanation": "「contemporary」は『同時代の』や『現代の』という意味です。"
+  },
+  {
+    "question": "What does 'detrimental' mean?",
+    "choices": [
+      { "text": "有益な" },
+      { "text": "有害な" },
+      { "text": "中立的な" },
+      { "text": "不明な" }
+    ],
+    "correct": 1,
+    "explanation": "「detrimental」は『有害な』という意味です。"
+  }
+]

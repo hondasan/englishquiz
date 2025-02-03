@@ -1,0 +1,100 @@
+/* 全体の背景・フォント設定 */
+body {
+  background-color: #f2f2f2;
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* クイズコンテナのスタイル */
+#quiz-container {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  padding: 20px;
+  max-width: 400px;
+  width: 90%;
+  margin-top: 30px;
+}
+
+/* タイトル */
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+/* 問題文 */
+#question {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+/* 選択肢ボタン */
+.choice {
+  background: #e7e7e7;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px 0;
+  width: 100%;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.choice:hover {
+  background: #d7d7d7;
+}
+
+/* 解説・フィードバック */
+#feedback {
+  margin-top: 15px;
+  font-size: 1em;
+  text-align: center;
+}
+
+/* ボタン（次へ・再挑戦） */
+button {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 15px;
+  width: 100%;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+/* スコア履歴コンテナ */
+#score-history-container {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  padding: 20px;
+  max-width: 400px;
+  width: 90%;
+  margin: 20px 0 30px;
+}
+
+#score-history-container h2 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#score-history {
+  list-style: none;
+  padding: 0;
+}
+
+#score-history li {
+  border-bottom: 1px solid #ddd;
+  padding: 5px 0;
+  text-align: center;
+  font-size: 0.9em;
+}

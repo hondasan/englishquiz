@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>TOEIC英単語クイズ</title>
+  <!-- モバイル対応 -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="quiz-container">
+    <h1>TOEIC英単語クイズ</h1>
+    <div id="question-container">
+      <p id="question"></p>
+      <div id="choices"></div>
+    </div>
+    <div id="feedback"></div>
+    <button id="next-btn">次へ</button>
+    <button id="restart-btn" style="display: none;">もう一度挑戦する</button>
+  </div>
+
+  <div id="score-history-container">
+    <h2>スコア履歴</h2>
+    <ul id="score-history"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
