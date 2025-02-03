@@ -1,6 +1,6 @@
-/* 全体の背景・フォント設定 */
+/* ページ全体の設定 */
 body {
-  background-color: #f2f2f2;
+  background-color: #f9f9f9;
   font-family: 'Arial', sans-serif;
   margin: 0;
   padding: 0;
@@ -9,11 +9,11 @@ body {
   align-items: center;
 }
 
-/* クイズコンテナのスタイル */
+/* クイズコンテナ */
 #quiz-container {
   background: #fff;
   border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   padding: 20px;
   max-width: 400px;
   width: 90%;
@@ -26,72 +26,79 @@ h1 {
   color: #333;
 }
 
+/* 問題番号 */
+#question-number {
+  font-size: 0.9em;
+  color: #555;
+  margin-bottom: 5px;
+}
+
 /* 問題文 */
 #question {
   font-size: 1.2em;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 
 /* 選択肢ボタン */
 .choice {
-  background: #e7e7e7;
-  border: none;
-  border-radius: 5px;
+  background-color: #ffffff;
+  border: 2px solid #007bff;
+  color: #007bff;
+  font-size: 1.1em;
+  font-weight: bold;
+  border-radius: 8px;
   padding: 10px;
-  margin: 5px 0;
+  margin: 8px 0;
   width: 100%;
   cursor: pointer;
-  transition: background 0.3s;
+  transition: background-color 0.3s, color 0.3s;
 }
-
 .choice:hover {
-  background: #d7d7d7;
+  background-color: #007bff;
+  color: #ffffff;
 }
 
-/* 解説・フィードバック */
+/* フィードバック文 */
 #feedback {
   margin-top: 15px;
   font-size: 1em;
   text-align: center;
 }
 
-/* ボタン（次へ・再挑戦） */
+/* ボタン（次へ、再挑戦） */
 button {
-  background: #007bff;
+  background: #28a745;
   color: white;
   border: none;
   padding: 10px 20px;
-  border-radius: 5px;
+  border-radius: 8px;
   cursor: pointer;
   margin-top: 15px;
   width: 100%;
+  font-size: 1em;
 }
-
 button:hover {
-  background: #0056b3;
+  background: #218838;
 }
 
-/* スコア履歴コンテナ */
+/* スコア履歴 */
 #score-history-container {
   background: #fff;
   border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   padding: 20px;
   max-width: 400px;
   width: 90%;
   margin: 20px 0 30px;
 }
-
 #score-history-container h2 {
   text-align: center;
   margin-bottom: 10px;
 }
-
 #score-history {
   list-style: none;
   padding: 0;
 }
-
 #score-history li {
   border-bottom: 1px solid #ddd;
   padding: 5px 0;

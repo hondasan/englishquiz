@@ -1,23 +1,35 @@
 let questions = [];
 let currentQuestionIndex = 0;
 let score = 0;
+const totalQuizQuestions = 10;  // クイズで出題する問題数
 
 // DOM要素の取得
 const questionElement = document.getElementById('question');
+const questionNumberElement = document.getElementById('question-number');
 const choicesElement = document.getElementById('choices');
 const feedbackElement = document.getElementById('feedback');
 const nextButton = document.getElementById('next-btn');
 const restartButton = document.getElementById('restart-btn');
 const scoreHistoryElement = document.getElementById('score-history');
 
-// JSONファイルから問題データを取得
+// Fisher-Yates アルゴリズムによるシャッフル
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+}
+
+// JSONから問題データを取得し、ランダムな10問を選択
 function loadQuestions() {
   fetch('questions.json')
     .then(response => response.json())
     .then(data => {
-      questions = data;
-      // 問題をランダム化
-      shuffleArray(questions);
+      const shuffled = shuffleArray(data);
+      questions = shuffled.slice(0, totalQuizQuestions);
+      currentQuestionIndex = 0;
+      score = 0;
       displayQuestion();
       updateScoreHistory();
     })
@@ -26,28 +38,19 @@ function loadQuestions() {
     });
 }
 
-// Fisher-Yates アルゴリズムで配列をシャッフル
-function shuffleArray(array) {
-  for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [array[i], array[j]] = [array[j], array[i]];
-  }
-}
-
-// 現在の問題を画面に表示
+// 現在の問題を表示
 function displayQuestion() {
-  // 前回のフィードバックをクリア
   feedbackElement.textContent = "";
   nextButton.style.display = 'none';
   restartButton.style.display = 'none';
 
-  // 全問題を回答済みならクイズ終了
   if (currentQuestionIndex >= questions.length) {
     finishQuiz();
     return;
   }
   
   const currentQuestion = questions[currentQuestionIndex];
+  questionNumberElement.textContent = `Question ${currentQuestionIndex + 1} of ${totalQuizQuestions}`;
   questionElement.textContent = currentQuestion.question;
   choicesElement.innerHTML = "";
   
@@ -79,7 +82,7 @@ function selectAnswer(choiceIndex) {
   nextButton.style.display = 'block';
 }
 
-// 次へボタン押下で次の問題へ
+// 「次へ」ボタン押下で次の問題へ
 nextButton.addEventListener('click', () => {
   currentQuestionIndex++;
   displayQuestion();
@@ -87,24 +90,19 @@ nextButton.addEventListener('click', () => {
 
 // クイズ終了時の処理
 function finishQuiz() {
-  questionElement.textContent = `クイズ終了！ あなたの正解数: ${score} / ${questions.length}`;
+  questionElement.textContent = `クイズ終了！ あなたの正解数: ${score} / ${totalQuizQuestions}`;
+  questionNumberElement.textContent = "";
   choicesElement.innerHTML = "";
   feedbackElement.textContent = "";
   nextButton.style.display = 'none';
   restartButton.style.display = 'block';
-  // スコアを履歴に保存
   saveScore();
   updateScoreHistory();
 }
 
-// 「もう一度挑戦する」ボタンでリセット
+// 「もう一度挑戦する」ボタン押下でリスタート
 restartButton.addEventListener('click', () => {
-  // 状態リセット
-  currentQuestionIndex = 0;
-  score = 0;
-  // 問題を再ランダム化
-  shuffleArray(questions);
-  displayQuestion();
+  loadQuestions();
 });
 
 // スコアを localStorage に保存
@@ -114,7 +112,7 @@ function saveScore() {
   scoreHistory.push({
     date: now.toLocaleString(),
     score: score,
-    total: questions.length
+    total: totalQuizQuestions
   });
   localStorage.setItem('scoreHistory', JSON.stringify(scoreHistory));
 }

@@ -1,68 +1,5702 @@
 [
   {
-    "question": "What does the word 'abundant' mean?",
+    "question": "What does 'accommodate' mean?",
     "choices": [
-      { "text": "豊富な" },
-      { "text": "不足している" },
-      { "text": "急速な" },
-      { "text": "混乱した" }
+      {
+        "text": "を収容する、を宿泊させる"
+      },
+      {
+        "text": "会計学、 計算、経理"
+      },
+      {
+        "text": "実際に、本当のところは"
+      },
+      {
+        "text": "付加的な，追加の"
+      }
     ],
     "correct": 0,
-    "explanation": "「abundant」は『豊富な』という意味です。"
+    "explanation": "「accommodate」の意味は「を収容する、を宿泊させる」です。"
   },
   {
-    "question": "What does 'meticulous' mean?",
+    "question": "What does 'accounting' mean?",
     "choices": [
-      { "text": "無頓着な" },
-      { "text": "几帳面な" },
-      { "text": "曖昧な" },
-      { "text": "退屈な" }
+      {
+        "text": "実際に、本当のところは"
+      },
+      {
+        "text": "会計学、 計算、経理"
+      },
+      {
+        "text": "付加的な，追加の"
+      },
+      {
+        "text": "管理、運営、経営、統治、行政"
+      }
     ],
     "correct": 1,
-    "explanation": "「meticulous」は『几帳面な』や『細心な』という意味です。"
+    "explanation": "「accounting」の意味は「会計学、 計算、経理」です。"
   },
   {
-    "question": "What does 'innovative' mean?",
+    "question": "What does 'actually' mean?",
     "choices": [
-      { "text": "革新的な" },
-      { "text": "伝統的な" },
-      { "text": "模倣的な" },
-      { "text": "保守的な" }
+      {
+        "text": "付加的な，追加の"
+      },
+      {
+        "text": "管理、運営、経営、統治、行政"
+      },
+      {
+        "text": "実際に、本当のところは"
+      },
+      {
+        "text": "前進、進める、前進させる、提案する、提示する"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「actually」の意味は「実際に、本当のところは」です。"
+  },
+  {
+    "question": "What does 'additional' mean?",
+    "choices": [
+      {
+        "text": "管理、運営、経営、統治、行政"
+      },
+      {
+        "text": "前進、進める、前進させる、提案する、提示する"
+      },
+      {
+        "text": "広告すること、広告"
+      },
+      {
+        "text": "付加的な，追加の"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「additional」の意味は「付加的な，追加の」です。"
+  },
+  {
+    "question": "What does 'administration' mean?",
+    "choices": [
+      {
+        "text": "管理、運営、経営、統治、行政"
+      },
+      {
+        "text": "前進、進める、前進させる、提案する、提示する"
+      },
+      {
+        "text": "広告すること、広告"
+      },
+      {
+        "text": "余裕がある、差し支えない"
+      }
     ],
     "correct": 0,
-    "explanation": "「innovative」は『革新的な』という意味です。"
+    "explanation": "「administration」の意味は「管理、運営、経営、統治、行政」です。"
   },
   {
-    "question": "What does 'versatile' mean?",
+    "question": "What does 'advance' mean?",
     "choices": [
-      { "text": "多才な" },
-      { "text": "単調な" },
-      { "text": "限定的な" },
-      { "text": "不安定な" }
+      {
+        "text": "広告すること、広告"
+      },
+      {
+        "text": "前進、進める、前進させる、提案する、提示する"
+      },
+      {
+        "text": "余裕がある、差し支えない"
+      },
+      {
+        "text": "分析者、アナリスト"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「advance」の意味は「前進、進める、前進させる、提案する、提示する」です。"
+  },
+  {
+    "question": "What does 'advertising' mean?",
+    "choices": [
+      {
+        "text": "余裕がある、差し支えない"
+      },
+      {
+        "text": "分析者、アナリスト"
+      },
+      {
+        "text": "広告すること、広告"
+      },
+      {
+        "text": "年に1度の、例年の、1年の、年々の、毎年の"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「advertising」の意味は「広告すること、広告」です。"
+  },
+  {
+    "question": "What does 'afford' mean?",
+    "choices": [
+      {
+        "text": "分析者、アナリスト"
+      },
+      {
+        "text": "年に1度の、例年の、1年の、年々の、毎年の"
+      },
+      {
+        "text": "出現する、ように見える、見受けられる"
+      },
+      {
+        "text": "余裕がある、差し支えない"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「afford」の意味は「余裕がある、差し支えない」です。"
+  },
+  {
+    "question": "What does 'analyst' mean?",
+    "choices": [
+      {
+        "text": "分析者、アナリスト"
+      },
+      {
+        "text": "年に1度の、例年の、1年の、年々の、毎年の"
+      },
+      {
+        "text": "出現する、ように見える、見受けられる"
+      },
+      {
+        "text": "応募者、志願者、申込者、希望者、出願者"
+      }
     ],
     "correct": 0,
-    "explanation": "「versatile」は『多才な』という意味です。"
+    "explanation": "「analyst」の意味は「分析者、アナリスト」です。"
   },
   {
-    "question": "What does 'contemporary' mean?",
+    "question": "What does 'annual' mean?",
     "choices": [
-      { "text": "未来の" },
-      { "text": "同時代の" },
-      { "text": "過去の" },
-      { "text": "伝統的な" }
+      {
+        "text": "出現する、ように見える、見受けられる"
+      },
+      {
+        "text": "年に1度の、例年の、1年の、年々の、毎年の"
+      },
+      {
+        "text": "応募者、志願者、申込者、希望者、出願者"
+      },
+      {
+        "text": "高く評価する、鑑賞する"
+      }
     ],
     "correct": 1,
-    "explanation": "「contemporary」は『同時代の』や『現代の』という意味です。"
+    "explanation": "「annual」の意味は「年に1度の、例年の、1年の、年々の、毎年の」です。"
   },
   {
-    "question": "What does 'detrimental' mean?",
+    "question": "What does 'appear' mean?",
     "choices": [
-      { "text": "有益な" },
-      { "text": "有害な" },
-      { "text": "中立的な" },
-      { "text": "不明な" }
+      {
+        "text": "応募者、志願者、申込者、希望者、出願者"
+      },
+      {
+        "text": "高く評価する、鑑賞する"
+      },
+      {
+        "text": "出現する、ように見える、見受けられる"
+      },
+      {
+        "text": "建築家、建築士、設計者、企画者"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「appear」の意味は「出現する、ように見える、見受けられる」です。"
+  },
+  {
+    "question": "What does 'applicant' mean?",
+    "choices": [
+      {
+        "text": "高く評価する、鑑賞する"
+      },
+      {
+        "text": "建築家、建築士、設計者、企画者"
+      },
+      {
+        "text": "を評価する"
+      },
+      {
+        "text": "応募者、志願者、申込者、希望者、出願者"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「applicant」の意味は「応募者、志願者、申込者、希望者、出願者」です。"
+  },
+  {
+    "question": "What does 'appreciate' mean?",
+    "choices": [
+      {
+        "text": "高く評価する、鑑賞する"
+      },
+      {
+        "text": "建築家、建築士、設計者、企画者"
+      },
+      {
+        "text": "を評価する"
+      },
+      {
+        "text": "出席する、参列する."
+      }
+    ],
+    "correct": 0,
+    "explanation": "「appreciate」の意味は「高く評価する、鑑賞する」です。"
+  },
+  {
+    "question": "What does 'architect' mean?",
+    "choices": [
+      {
+        "text": "を評価する"
+      },
+      {
+        "text": "建築家、建築士、設計者、企画者"
+      },
+      {
+        "text": "出席する、参列する."
+      },
+      {
+        "text": "引く、引き込む、引き付ける"
+      }
     ],
     "correct": 1,
-    "explanation": "「detrimental」は『有害な』という意味です。"
+    "explanation": "「architect」の意味は「建築家、建築士、設計者、企画者」です。"
+  },
+  {
+    "question": "What does 'assess' mean?",
+    "choices": [
+      {
+        "text": "出席する、参列する."
+      },
+      {
+        "text": "引く、引き込む、引き付ける"
+      },
+      {
+        "text": "を評価する"
+      },
+      {
+        "text": "利益、ためになること、幸福につながる便益"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「assess」の意味は「を評価する」です。"
+  },
+  {
+    "question": "What does 'attend' mean?",
+    "choices": [
+      {
+        "text": "引く、引き込む、引き付ける"
+      },
+      {
+        "text": "利益、ためになること、幸福につながる便益"
+      },
+      {
+        "text": "政府などの予算案、予算、 経費"
+      },
+      {
+        "text": "出席する、参列する."
+      }
+    ],
+    "correct": 3,
+    "explanation": "「attend」の意味は「出席する、参列する.」です。"
+  },
+  {
+    "question": "What does 'attract' mean?",
+    "choices": [
+      {
+        "text": "引く、引き込む、引き付ける"
+      },
+      {
+        "text": "利益、ためになること、幸福につながる便益"
+      },
+      {
+        "text": "政府などの予算案、予算、 経費"
+      },
+      {
+        "text": "料理を調達する、提供する、賄う"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「attract」の意味は「引く、引き込む、引き付ける」です。"
+  },
+  {
+    "question": "What does 'benefit' mean?",
+    "choices": [
+      {
+        "text": "政府などの予算案、予算、 経費"
+      },
+      {
+        "text": "利益、ためになること、幸福につながる便益"
+      },
+      {
+        "text": "料理を調達する、提供する、賄う"
+      },
+      {
+        "text": "同僚"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「benefit」の意味は「利益、ためになること、幸福につながる便益」です。"
+  },
+  {
+    "question": "What does 'budget' mean?",
+    "choices": [
+      {
+        "text": "料理を調達する、提供する、賄う"
+      },
+      {
+        "text": "同僚"
+      },
+      {
+        "text": "政府などの予算案、予算、 経費"
+      },
+      {
+        "text": "比較する、対照する"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「budget」の意味は「政府などの予算案、予算、 経費」です。"
+  },
+  {
+    "question": "What does 'cater' mean?",
+    "choices": [
+      {
+        "text": "同僚"
+      },
+      {
+        "text": "比較する、対照する"
+      },
+      {
+        "text": "複雑な、入り組んだ"
+      },
+      {
+        "text": "料理を調達する、提供する、賄う"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「cater」の意味は「料理を調達する、提供する、賄う」です。"
+  },
+  {
+    "question": "What does 'colleague' mean?",
+    "choices": [
+      {
+        "text": "同僚"
+      },
+      {
+        "text": "比較する、対照する"
+      },
+      {
+        "text": "複雑な、入り組んだ"
+      },
+      {
+        "text": "関係している、重要である、心配させる"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「colleague」の意味は「同僚」です。"
+  },
+  {
+    "question": "What does 'compare' mean?",
+    "choices": [
+      {
+        "text": "複雑な、入り組んだ"
+      },
+      {
+        "text": "比較する、対照する"
+      },
+      {
+        "text": "関係している、重要である、心配させる"
+      },
+      {
+        "text": "会議、協議会、委員会"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「compare」の意味は「比較する、対照する」です。"
+  },
+  {
+    "question": "What does 'complicated' mean?",
+    "choices": [
+      {
+        "text": "関係している、重要である、心配させる"
+      },
+      {
+        "text": "会議、協議会、委員会"
+      },
+      {
+        "text": "複雑な、入り組んだ"
+      },
+      {
+        "text": "消費者"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「complicated」の意味は「複雑な、入り組んだ」です。"
+  },
+  {
+    "question": "What does 'concern' mean?",
+    "choices": [
+      {
+        "text": "会議、協議会、委員会"
+      },
+      {
+        "text": "消費者"
+      },
+      {
+        "text": "契約、協定、契約書"
+      },
+      {
+        "text": "関係している、重要である、心配させる"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「concern」の意味は「関係している、重要である、心配させる」です。"
+  },
+  {
+    "question": "What does 'conference' mean?",
+    "choices": [
+      {
+        "text": "会議、協議会、委員会"
+      },
+      {
+        "text": "消費者"
+      },
+      {
+        "text": "契約、協定、契約書"
+      },
+      {
+        "text": "今の、現在の、流通している"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「conference」の意味は「会議、協議会、委員会」です。"
+  },
+  {
+    "question": "What does 'consumer' mean?",
+    "choices": [
+      {
+        "text": "契約、協定、契約書"
+      },
+      {
+        "text": "消費者"
+      },
+      {
+        "text": "今の、現在の、流通している"
+      },
+      {
+        "text": "決定する、決心する"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「consumer」の意味は「消費者」です。"
+  },
+  {
+    "question": "What does 'contract' mean?",
+    "choices": [
+      {
+        "text": "今の、現在の、流通している"
+      },
+      {
+        "text": "決定する、決心する"
+      },
+      {
+        "text": "契約、協定、契約書"
+      },
+      {
+        "text": "遅らせる、延ばす"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「contract」の意味は「契約、協定、契約書」です。"
+  },
+  {
+    "question": "What does 'current' mean?",
+    "choices": [
+      {
+        "text": "決定する、決心する"
+      },
+      {
+        "text": "遅らせる、延ばす"
+      },
+      {
+        "text": "喜んで、楽しそうな"
+      },
+      {
+        "text": "今の、現在の、流通している"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「current」の意味は「今の、現在の、流通している」です。"
+  },
+  {
+    "question": "What does 'decide' mean?",
+    "choices": [
+      {
+        "text": "決定する、決心する"
+      },
+      {
+        "text": "遅らせる、延ばす"
+      },
+      {
+        "text": "喜んで、楽しそうな"
+      },
+      {
+        "text": "売場、省、部、局"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「decide」の意味は「決定する、決心する」です。"
+  },
+  {
+    "question": "What does 'delay' mean?",
+    "choices": [
+      {
+        "text": "喜んで、楽しそうな"
+      },
+      {
+        "text": "遅らせる、延ばす"
+      },
+      {
+        "text": "売場、省、部、局"
+      },
+      {
+        "text": "指名する"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「delay」の意味は「遅らせる、延ばす」です。"
+  },
+  {
+    "question": "What does 'delighted' mean?",
+    "choices": [
+      {
+        "text": "売場、省、部、局"
+      },
+      {
+        "text": "指名する"
+      },
+      {
+        "text": "喜んで、楽しそうな"
+      },
+      {
+        "text": "発達させる"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「delighted」の意味は「喜んで、楽しそうな」です。"
+  },
+  {
+    "question": "What does 'department' mean?",
+    "choices": [
+      {
+        "text": "指名する"
+      },
+      {
+        "text": "発達させる"
+      },
+      {
+        "text": "贈与する、寄贈する"
+      },
+      {
+        "text": "売場、省、部、局"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「department」の意味は「売場、省、部、局」です。"
+  },
+  {
+    "question": "What does 'designate' mean?",
+    "choices": [
+      {
+        "text": "指名する"
+      },
+      {
+        "text": "発達させる"
+      },
+      {
+        "text": "贈与する、寄贈する"
+      },
+      {
+        "text": "除く、排除する、除外する"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「designate」の意味は「指名する」です。"
+  },
+  {
+    "question": "What does 'develop' mean?",
+    "choices": [
+      {
+        "text": "贈与する、寄贈する"
+      },
+      {
+        "text": "発達させる"
+      },
+      {
+        "text": "除く、排除する、除外する"
+      },
+      {
+        "text": "元気づける、促進する"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「develop」の意味は「発達させる」です。"
+  },
+  {
+    "question": "What does 'donate' mean?",
+    "choices": [
+      {
+        "text": "除く、排除する、除外する"
+      },
+      {
+        "text": "元気づける、促進する"
+      },
+      {
+        "text": "贈与する、寄贈する"
+      },
+      {
+        "text": "登録する、入学を認める"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「donate」の意味は「贈与する、寄贈する」です。"
+  },
+  {
+    "question": "What does 'eliminate' mean?",
+    "choices": [
+      {
+        "text": "元気づける、促進する"
+      },
+      {
+        "text": "登録する、入学を認める"
+      },
+      {
+        "text": "財産"
+      },
+      {
+        "text": "除く、排除する、除外する"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「eliminate」の意味は「除く、排除する、除外する」です。"
+  },
+  {
+    "question": "What does 'encourage' mean?",
+    "choices": [
+      {
+        "text": "元気づける、促進する"
+      },
+      {
+        "text": "登録する、入学を認める"
+      },
+      {
+        "text": "財産"
+      },
+      {
+        "text": "超過する、越える"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「encourage」の意味は「元気づける、促進する」です。"
+  },
+  {
+    "question": "What does 'enroll' mean?",
+    "choices": [
+      {
+        "text": "財産"
+      },
+      {
+        "text": "登録する、入学を認める"
+      },
+      {
+        "text": "超過する、越える"
+      },
+      {
+        "text": "を除いては、～のほかは、～以外では"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「enroll」の意味は「登録する、入学を認める」です。"
+  },
+  {
+    "question": "What does 'estate' mean?",
+    "choices": [
+      {
+        "text": "超過する、越える"
+      },
+      {
+        "text": "を除いては、～のほかは、～以外では"
+      },
+      {
+        "text": "財産"
+      },
+      {
+        "text": "経営幹部，役員，経営者、行政上の、実行する、執行する"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「estate」の意味は「財産」です。"
+  },
+  {
+    "question": "What does 'exceed' mean?",
+    "choices": [
+      {
+        "text": "を除いては、～のほかは、～以外では"
+      },
+      {
+        "text": "経営幹部，役員，経営者、行政上の、実行する、執行する"
+      },
+      {
+        "text": "を展示する、陳列する、提示する，示す"
+      },
+      {
+        "text": "超過する、越える"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「exceed」の意味は「超過する、越える」です。"
+  },
+  {
+    "question": "What does 'except' mean?",
+    "choices": [
+      {
+        "text": "を除いては、～のほかは、～以外では"
+      },
+      {
+        "text": "経営幹部，役員，経営者、行政上の、実行する、執行する"
+      },
+      {
+        "text": "を展示する、陳列する、提示する，示す"
+      },
+      {
+        "text": "予期する、期待する"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「except」の意味は「を除いては、～のほかは、～以外では」です。"
+  },
+  {
+    "question": "What does 'executive' mean?",
+    "choices": [
+      {
+        "text": "を展示する、陳列する、提示する，示す"
+      },
+      {
+        "text": "経営幹部，役員，経営者、行政上の、実行する、執行する"
+      },
+      {
+        "text": "予期する、期待する"
+      },
+      {
+        "text": "専門的技術、ノウハウ"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「executive」の意味は「経営幹部，役員，経営者、行政上の、実行する、執行する」です。"
+  },
+  {
+    "question": "What does 'exhibit' mean?",
+    "choices": [
+      {
+        "text": "予期する、期待する"
+      },
+      {
+        "text": "専門的技術、ノウハウ"
+      },
+      {
+        "text": "を展示する、陳列する、提示する，示す"
+      },
+      {
+        "text": "説明する、明らかにする"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「exhibit」の意味は「を展示する、陳列する、提示する，示す」です。"
+  },
+  {
+    "question": "What does 'expect' mean?",
+    "choices": [
+      {
+        "text": "専門的技術、ノウハウ"
+      },
+      {
+        "text": "説明する、明らかにする"
+      },
+      {
+        "text": "設備、才能"
+      },
+      {
+        "text": "予期する、期待する"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「expect」の意味は「予期する、期待する」です。"
+  },
+  {
+    "question": "What does 'expertise' mean?",
+    "choices": [
+      {
+        "text": "専門的技術、ノウハウ"
+      },
+      {
+        "text": "説明する、明らかにする"
+      },
+      {
+        "text": "設備、才能"
+      },
+      {
+        "text": "失敗する、しそこなう"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「expertise」の意味は「専門的技術、ノウハウ」です。"
+  },
+  {
+    "question": "What does 'explain' mean?",
+    "choices": [
+      {
+        "text": "設備、才能"
+      },
+      {
+        "text": "説明する、明らかにする"
+      },
+      {
+        "text": "失敗する、しそこなう"
+      },
+      {
+        "text": "よく知っている、なじみの、ありふれた、どこにでもある"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「explain」の意味は「説明する、明らかにする」です。"
+  },
+  {
+    "question": "What does 'facility' mean?",
+    "choices": [
+      {
+        "text": "失敗する、しそこなう"
+      },
+      {
+        "text": "よく知っている、なじみの、ありふれた、どこにでもある"
+      },
+      {
+        "text": "設備、才能"
+      },
+      {
+        "text": "人目を引く特徴、目立った特徴、呼び物"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「facility」の意味は「設備、才能」です。"
+  },
+  {
+    "question": "What does 'fail' mean?",
+    "choices": [
+      {
+        "text": "よく知っている、なじみの、ありふれた、どこにでもある"
+      },
+      {
+        "text": "人目を引く特徴、目立った特徴、呼び物"
+      },
+      {
+        "text": "料金、謝礼、手数料、入場料"
+      },
+      {
+        "text": "失敗する、しそこなう"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「fail」の意味は「失敗する、しそこなう」です。"
+  },
+  {
+    "question": "What does 'familiar' mean?",
+    "choices": [
+      {
+        "text": "よく知っている、なじみの、ありふれた、どこにでもある"
+      },
+      {
+        "text": "人目を引く特徴、目立った特徴、呼び物"
+      },
+      {
+        "text": "料金、謝礼、手数料、入場料"
+      },
+      {
+        "text": "図形、形、装飾、数字"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「familiar」の意味は「よく知っている、なじみの、ありふれた、どこにでもある」です。"
+  },
+  {
+    "question": "What does 'feature' mean?",
+    "choices": [
+      {
+        "text": "料金、謝礼、手数料、入場料"
+      },
+      {
+        "text": "人目を引く特徴、目立った特徴、呼び物"
+      },
+      {
+        "text": "図形、形、装飾、数字"
+      },
+      {
+        "text": "たびたびの、頻繁な"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「feature」の意味は「人目を引く特徴、目立った特徴、呼び物」です。"
+  },
+  {
+    "question": "What does 'fee' mean?",
+    "choices": [
+      {
+        "text": "図形、形、装飾、数字"
+      },
+      {
+        "text": "たびたびの、頻繁な"
+      },
+      {
+        "text": "料金、謝礼、手数料、入場料"
+      },
+      {
+        "text": "もっと遠い、そのうえ"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「fee」の意味は「料金、謝礼、手数料、入場料」です。"
+  },
+  {
+    "question": "What does 'figure' mean?",
+    "choices": [
+      {
+        "text": "たびたびの、頻繁な"
+      },
+      {
+        "text": "もっと遠い、そのうえ"
+      },
+      {
+        "text": "ハンドル、取っ手、扱う、処理する"
+      },
+      {
+        "text": "図形、形、装飾、数字"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「figure」の意味は「図形、形、装飾、数字」です。"
+  },
+  {
+    "question": "What does 'frequent' mean?",
+    "choices": [
+      {
+        "text": "たびたびの、頻繁な"
+      },
+      {
+        "text": "もっと遠い、そのうえ"
+      },
+      {
+        "text": "ハンドル、取っ手、扱う、処理する"
+      },
+      {
+        "text": "同一であることの確認、身分証明証"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「frequent」の意味は「たびたびの、頻繁な」です。"
+  },
+  {
+    "question": "What does 'further' mean?",
+    "choices": [
+      {
+        "text": "ハンドル、取っ手、扱う、処理する"
+      },
+      {
+        "text": "もっと遠い、そのうえ"
+      },
+      {
+        "text": "同一であることの確認、身分証明証"
+      },
+      {
+        "text": "改良する"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「further」の意味は「もっと遠い、そのうえ」です。"
+  },
+  {
+    "question": "What does 'handle' mean?",
+    "choices": [
+      {
+        "text": "同一であることの確認、身分証明証"
+      },
+      {
+        "text": "改良する"
+      },
+      {
+        "text": "ハンドル、取っ手、扱う、処理する"
+      },
+      {
+        "text": "含む"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「handle」の意味は「ハンドル、取っ手、扱う、処理する」です。"
+  },
+  {
+    "question": "What does 'identification' mean?",
+    "choices": [
+      {
+        "text": "改良する"
+      },
+      {
+        "text": "含む"
+      },
+      {
+        "text": "尋ねる、調べる、問い合わせる"
+      },
+      {
+        "text": "同一であることの確認、身分証明証"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「identification」の意味は「同一であることの確認、身分証明証」です。"
+  },
+  {
+    "question": "What does 'improve' mean?",
+    "choices": [
+      {
+        "text": "改良する"
+      },
+      {
+        "text": "含む"
+      },
+      {
+        "text": "尋ねる、調べる、問い合わせる"
+      },
+      {
+        "text": "すぐに、即座に、するとすぐに"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「improve」の意味は「改良する」です。"
+  },
+  {
+    "question": "What does 'include' mean?",
+    "choices": [
+      {
+        "text": "尋ねる、調べる、問い合わせる"
+      },
+      {
+        "text": "含む"
+      },
+      {
+        "text": "すぐに、即座に、するとすぐに"
+      },
+      {
+        "text": "保険、保険業"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「include」の意味は「含む」です。"
+  },
+  {
+    "question": "What does 'inquire' mean?",
+    "choices": [
+      {
+        "text": "すぐに、即座に、するとすぐに"
+      },
+      {
+        "text": "保険、保険業"
+      },
+      {
+        "text": "尋ねる、調べる、問い合わせる"
+      },
+      {
+        "text": "投資する"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「inquire」の意味は「尋ねる、調べる、問い合わせる」です。"
+  },
+  {
+    "question": "What does 'instantly' mean?",
+    "choices": [
+      {
+        "text": "保険、保険業"
+      },
+      {
+        "text": "投資する"
+      },
+      {
+        "text": "招待する"
+      },
+      {
+        "text": "すぐに、即座に、するとすぐに"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「instantly」の意味は「すぐに、即座に、するとすぐに」です。"
+  },
+  {
+    "question": "What does 'insurance' mean?",
+    "choices": [
+      {
+        "text": "保険、保険業"
+      },
+      {
+        "text": "投資する"
+      },
+      {
+        "text": "招待する"
+      },
+      {
+        "text": "送り状"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「insurance」の意味は「保険、保険業」です。"
+  },
+  {
+    "question": "What does 'invest' mean?",
+    "choices": [
+      {
+        "text": "招待する"
+      },
+      {
+        "text": "投資する"
+      },
+      {
+        "text": "送り状"
+      },
+      {
+        "text": "巻き込む、伴う、夢中になる"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「invest」の意味は「投資する」です。"
+  },
+  {
+    "question": "What does 'invite' mean?",
+    "choices": [
+      {
+        "text": "送り状"
+      },
+      {
+        "text": "巻き込む、伴う、夢中になる"
+      },
+      {
+        "text": "招待する"
+      },
+      {
+        "text": "旅行かばん類、手荷物"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「invite」の意味は「招待する」です。"
+  },
+  {
+    "question": "What does 'invoice' mean?",
+    "choices": [
+      {
+        "text": "巻き込む、伴う、夢中になる"
+      },
+      {
+        "text": "旅行かばん類、手荷物"
+      },
+      {
+        "text": "製造、製造業、製造する"
+      },
+      {
+        "text": "送り状"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「invoice」の意味は「送り状」です。"
+  },
+  {
+    "question": "What does 'involve' mean?",
+    "choices": [
+      {
+        "text": "巻き込む、伴う、夢中になる"
+      },
+      {
+        "text": "旅行かばん類、手荷物"
+      },
+      {
+        "text": "製造、製造業、製造する"
+      },
+      {
+        "text": "取りそこなう、逃す"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「involve」の意味は「巻き込む、伴う、夢中になる」です。"
+  },
+  {
+    "question": "What does 'luggage' mean?",
+    "choices": [
+      {
+        "text": "製造、製造業、製造する"
+      },
+      {
+        "text": "旅行かばん類、手荷物"
+      },
+      {
+        "text": "取りそこなう、逃す"
+      },
+      {
+        "text": "告知、注意すること、注目、気がつく"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「luggage」の意味は「旅行かばん類、手荷物」です。"
+  },
+  {
+    "question": "What does 'manufacture' mean?",
+    "choices": [
+      {
+        "text": "取りそこなう、逃す"
+      },
+      {
+        "text": "告知、注意すること、注目、気がつく"
+      },
+      {
+        "text": "製造、製造業、製造する"
+      },
+      {
+        "text": "差し出す、提供する、申し出る"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「manufacture」の意味は「製造、製造業、製造する」です。"
+  },
+  {
+    "question": "What does 'miss' mean?",
+    "choices": [
+      {
+        "text": "告知、注意すること、注目、気がつく"
+      },
+      {
+        "text": "差し出す、提供する、申し出る"
+      },
+      {
+        "text": "借りがある、負っている"
+      },
+      {
+        "text": "取りそこなう、逃す"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「miss」の意味は「取りそこなう、逃す」です。"
+  },
+  {
+    "question": "What does 'notice' mean?",
+    "choices": [
+      {
+        "text": "告知、注意すること、注目、気がつく"
+      },
+      {
+        "text": "差し出す、提供する、申し出る"
+      },
+      {
+        "text": "借りがある、負っている"
+      },
+      {
+        "text": "参加する"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「notice」の意味は「告知、注意すること、注目、気がつく」です。"
+  },
+  {
+    "question": "What does 'offer' mean?",
+    "choices": [
+      {
+        "text": "借りがある、負っている"
+      },
+      {
+        "text": "差し出す、提供する、申し出る"
+      },
+      {
+        "text": "参加する"
+      },
+      {
+        "text": "乗客、旅客"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「offer」の意味は「差し出す、提供する、申し出る」です。"
+  },
+  {
+    "question": "What does 'owe' mean?",
+    "choices": [
+      {
+        "text": "参加する"
+      },
+      {
+        "text": "乗客、旅客"
+      },
+      {
+        "text": "借りがある、負っている"
+      },
+      {
+        "text": "たくさんの、豊富な、あり余るほどの"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「owe」の意味は「借りがある、負っている」です。"
+  },
+  {
+    "question": "What does 'participate' mean?",
+    "choices": [
+      {
+        "text": "乗客、旅客"
+      },
+      {
+        "text": "たくさんの、豊富な、あり余るほどの"
+      },
+      {
+        "text": "保存、維持、保管"
+      },
+      {
+        "text": "参加する"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「participate」の意味は「参加する」です。"
+  },
+  {
+    "question": "What does 'passenger' mean?",
+    "choices": [
+      {
+        "text": "乗客、旅客"
+      },
+      {
+        "text": "たくさんの、豊富な、あり余るほどの"
+      },
+      {
+        "text": "保存、維持、保管"
+      },
+      {
+        "text": "以前の、前の、先の"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「passenger」の意味は「乗客、旅客」です。"
+  },
+  {
+    "question": "What does 'plenty' mean?",
+    "choices": [
+      {
+        "text": "保存、維持、保管"
+      },
+      {
+        "text": "たくさんの、豊富な、あり余るほどの"
+      },
+      {
+        "text": "以前の、前の、先の"
+      },
+      {
+        "text": "進む，続行する"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「plenty」の意味は「たくさんの、豊富な、あり余るほどの」です。"
+  },
+  {
+    "question": "What does 'preservation' mean?",
+    "choices": [
+      {
+        "text": "以前の、前の、先の"
+      },
+      {
+        "text": "進む，続行する"
+      },
+      {
+        "text": "保存、維持、保管"
+      },
+      {
+        "text": "昇進させる、促進する、助長する"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「preservation」の意味は「保存、維持、保管」です。"
+  },
+  {
+    "question": "What does 'previous' mean?",
+    "choices": [
+      {
+        "text": "進む，続行する"
+      },
+      {
+        "text": "昇進させる、促進する、助長する"
+      },
+      {
+        "text": "繁栄する、成功した、好都合の"
+      },
+      {
+        "text": "以前の、前の、先の"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「previous」の意味は「以前の、前の、先の」です。"
+  },
+  {
+    "question": "What does 'proceed' mean?",
+    "choices": [
+      {
+        "text": "進む，続行する"
+      },
+      {
+        "text": "昇進させる、促進する、助長する"
+      },
+      {
+        "text": "繁栄する、成功した、好都合の"
+      },
+      {
+        "text": "提供する、与える、供給する"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「proceed」の意味は「進む，続行する」です。"
+  },
+  {
+    "question": "What does 'promote' mean?",
+    "choices": [
+      {
+        "text": "繁栄する、成功した、好都合の"
+      },
+      {
+        "text": "昇進させる、促進する、助長する"
+      },
+      {
+        "text": "提供する、与える、供給する"
+      },
+      {
+        "text": "世間の注目、宣伝、広告"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「promote」の意味は「昇進させる、促進する、助長する」です。"
+  },
+  {
+    "question": "What does 'prosperous' mean?",
+    "choices": [
+      {
+        "text": "提供する、与える、供給する"
+      },
+      {
+        "text": "世間の注目、宣伝、広告"
+      },
+      {
+        "text": "繁栄する、成功した、好都合の"
+      },
+      {
+        "text": "を勧める、奨励する"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「prosperous」の意味は「繁栄する、成功した、好都合の」です。"
+  },
+  {
+    "question": "What does 'provide' mean?",
+    "choices": [
+      {
+        "text": "世間の注目、宣伝、広告"
+      },
+      {
+        "text": "を勧める、奨励する"
+      },
+      {
+        "text": "払い戻す、返金する"
+      },
+      {
+        "text": "提供する、与える、供給する"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「provide」の意味は「提供する、与える、供給する」です。"
+  },
+  {
+    "question": "What does 'publicity' mean?",
+    "choices": [
+      {
+        "text": "世間の注目、宣伝、広告"
+      },
+      {
+        "text": "を勧める、奨励する"
+      },
+      {
+        "text": "払い戻す、返金する"
+      },
+      {
+        "text": "思い出させる、気づかせる"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「publicity」の意味は「世間の注目、宣伝、広告」です。"
+  },
+  {
+    "question": "What does 'recommend' mean?",
+    "choices": [
+      {
+        "text": "払い戻す、返金する"
+      },
+      {
+        "text": "を勧める、奨励する"
+      },
+      {
+        "text": "思い出させる、気づかせる"
+      },
+      {
+        "text": "移動させる、取り除く"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「recommend」の意味は「を勧める、奨励する」です。"
+  },
+  {
+    "question": "What does 'refund' mean?",
+    "choices": [
+      {
+        "text": "思い出させる、気づかせる"
+      },
+      {
+        "text": "移動させる、取り除く"
+      },
+      {
+        "text": "払い戻す、返金する"
+      },
+      {
+        "text": "交換、後継者"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「refund」の意味は「払い戻す、返金する」です。"
+  },
+  {
+    "question": "What does 'remind' mean?",
+    "choices": [
+      {
+        "text": "移動させる、取り除く"
+      },
+      {
+        "text": "交換、後継者"
+      },
+      {
+        "text": "代表する、描写して、代理の"
+      },
+      {
+        "text": "思い出させる、気づかせる"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「remind」の意味は「思い出させる、気づかせる」です。"
+  },
+  {
+    "question": "What does 'remove' mean?",
+    "choices": [
+      {
+        "text": "移動させる、取り除く"
+      },
+      {
+        "text": "交換、後継者"
+      },
+      {
+        "text": "代表する、描写して、代理の"
+      },
+      {
+        "text": "予約"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「remove」の意味は「移動させる、取り除く」です。"
+  },
+  {
+    "question": "What does 'replacement' mean?",
+    "choices": [
+      {
+        "text": "代表する、描写して、代理の"
+      },
+      {
+        "text": "交換、後継者"
+      },
+      {
+        "text": "予約"
+      },
+      {
+        "text": "責任がある"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「replacement」の意味は「交換、後継者」です。"
+  },
+  {
+    "question": "What does 'representative' mean?",
+    "choices": [
+      {
+        "text": "予約"
+      },
+      {
+        "text": "責任がある"
+      },
+      {
+        "text": "代表する、描写して、代理の"
+      },
+      {
+        "text": "結果、成り行き、結末"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「representative」の意味は「代表する、描写して、代理の」です。"
+  },
+  {
+    "question": "What does 'reservation' mean?",
+    "choices": [
+      {
+        "text": "責任がある"
+      },
+      {
+        "text": "結果、成り行き、結末"
+      },
+      {
+        "text": "見直す、よく調べる、批評する"
+      },
+      {
+        "text": "予約"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「reservation」の意味は「予約」です。"
+  },
+  {
+    "question": "What does 'responsible' mean?",
+    "choices": [
+      {
+        "text": "責任がある"
+      },
+      {
+        "text": "結果、成り行き、結末"
+      },
+      {
+        "text": "見直す、よく調べる、批評する"
+      },
+      {
+        "text": "ひどい、厳しい"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「responsible」の意味は「責任がある」です。"
+  },
+  {
+    "question": "What does 'result' mean?",
+    "choices": [
+      {
+        "text": "見直す、よく調べる、批評する"
+      },
+      {
+        "text": "結果、成り行き、結末"
+      },
+      {
+        "text": "ひどい、厳しい"
+      },
+      {
+        "text": "船積み、輸送、発送"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「result」の意味は「結果、成り行き、結末」です。"
+  },
+  {
+    "question": "What does 'review' mean?",
+    "choices": [
+      {
+        "text": "ひどい、厳しい"
+      },
+      {
+        "text": "船積み、輸送、発送"
+      },
+      {
+        "text": "見直す、よく調べる、批評する"
+      },
+      {
+        "text": "不足、欠乏"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「review」の意味は「見直す、よく調べる、批評する」です。"
+  },
+  {
+    "question": "What does 'severe' mean?",
+    "choices": [
+      {
+        "text": "船積み、輸送、発送"
+      },
+      {
+        "text": "不足、欠乏"
+      },
+      {
+        "text": "蓄え、備品、蓄える"
+      },
+      {
+        "text": "ひどい、厳しい"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「severe」の意味は「ひどい、厳しい」です。"
+  },
+  {
+    "question": "What does 'shipment' mean?",
+    "choices": [
+      {
+        "text": "船積み、輸送、発送"
+      },
+      {
+        "text": "不足、欠乏"
+      },
+      {
+        "text": "蓄え、備品、蓄える"
+      },
+      {
+        "text": "概観する，ざっと眺める、調査する、調査"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「shipment」の意味は「船積み、輸送、発送」です。"
+  },
+  {
+    "question": "What does 'shortage' mean?",
+    "choices": [
+      {
+        "text": "蓄え、備品、蓄える"
+      },
+      {
+        "text": "不足、欠乏"
+      },
+      {
+        "text": "概観する，ざっと眺める、調査する、調査"
+      },
+      {
+        "text": "運送、運賃、輸送機関"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「shortage」の意味は「不足、欠乏」です。"
+  },
+  {
+    "question": "What does 'store' mean?",
+    "choices": [
+      {
+        "text": "概観する，ざっと眺める、調査する、調査"
+      },
+      {
+        "text": "運送、運賃、輸送機関"
+      },
+      {
+        "text": "蓄え、備品、蓄える"
+      },
+      {
+        "text": "保証人、クーポン、領収書"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「store」の意味は「蓄え、備品、蓄える」です。"
+  },
+  {
+    "question": "What does 'survey' mean?",
+    "choices": [
+      {
+        "text": "運送、運賃、輸送機関"
+      },
+      {
+        "text": "保証人、クーポン、領収書"
+      },
+      {
+        "text": "仕事場"
+      },
+      {
+        "text": "概観する，ざっと眺める、調査する、調査"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「survey」の意味は「概観する，ざっと眺める、調査する、調査」です。"
+  },
+  {
+    "question": "What does 'transportation' mean?",
+    "choices": [
+      {
+        "text": "運送、運賃、輸送機関"
+      },
+      {
+        "text": "保証人、クーポン、領収書"
+      },
+      {
+        "text": "仕事場"
+      },
+      {
+        "text": "作業場、ワークショップ"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「transportation」の意味は「運送、運賃、輸送機関」です。"
+  },
+  {
+    "question": "What does 'voucher' mean?",
+    "choices": [
+      {
+        "text": "仕事場"
+      },
+      {
+        "text": "保証人、クーポン、領収書"
+      },
+      {
+        "text": "作業場、ワークショップ"
+      },
+      {
+        "text": "獲得、取得物、利得"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「voucher」の意味は「保証人、クーポン、領収書」です。"
+  },
+  {
+    "question": "What does 'workplace' mean?",
+    "choices": [
+      {
+        "text": "作業場、ワークショップ"
+      },
+      {
+        "text": "獲得、取得物、利得"
+      },
+      {
+        "text": "仕事場"
+      },
+      {
+        "text": "認める、入れる"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「workplace」の意味は「仕事場」です。"
+  },
+  {
+    "question": "What does 'workshop' mean?",
+    "choices": [
+      {
+        "text": "獲得、取得物、利得"
+      },
+      {
+        "text": "認める、入れる"
+      },
+      {
+        "text": "協議事項、議事日程、予定表"
+      },
+      {
+        "text": "作業場、ワークショップ"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「workshop」の意味は「作業場、ワークショップ」です。"
+  },
+  {
+    "question": "What does 'acquisition' mean?",
+    "choices": [
+      {
+        "text": "獲得、取得物、利得"
+      },
+      {
+        "text": "認める、入れる"
+      },
+      {
+        "text": "協議事項、議事日程、予定表"
+      },
+      {
+        "text": "割り当てる、配分する"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「acquisition」の意味は「獲得、取得物、利得」です。"
+  },
+  {
+    "question": "What does 'admit' mean?",
+    "choices": [
+      {
+        "text": "協議事項、議事日程、予定表"
+      },
+      {
+        "text": "認める、入れる"
+      },
+      {
+        "text": "割り当てる、配分する"
+      },
+      {
+        "text": "付加する、添付する、併合する、添付書類"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「admit」の意味は「認める、入れる」です。"
+  },
+  {
+    "question": "What does 'agenda' mean?",
+    "choices": [
+      {
+        "text": "割り当てる、配分する"
+      },
+      {
+        "text": "付加する、添付する、併合する、添付書類"
+      },
+      {
+        "text": "協議事項、議事日程、予定表"
+      },
+      {
+        "text": "器具、装置、設備、電気製品"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「agenda」の意味は「協議事項、議事日程、予定表」です。"
+  },
+  {
+    "question": "What does 'allocate' mean?",
+    "choices": [
+      {
+        "text": "付加する、添付する、併合する、添付書類"
+      },
+      {
+        "text": "器具、装置、設備、電気製品"
+      },
+      {
+        "text": "適切に、ふさわしく"
+      },
+      {
+        "text": "割り当てる、配分する"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「allocate」の意味は「割り当てる、配分する」です。"
+  },
+  {
+    "question": "What does 'annex' mean?",
+    "choices": [
+      {
+        "text": "付加する、添付する、併合する、添付書類"
+      },
+      {
+        "text": "器具、装置、設備、電気製品"
+      },
+      {
+        "text": "適切に、ふさわしく"
+      },
+      {
+        "text": "おおよそ、ほぼ"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「annex」の意味は「付加する、添付する、併合する、添付書類」です。"
+  },
+  {
+    "question": "What does 'appliance' mean?",
+    "choices": [
+      {
+        "text": "適切に、ふさわしく"
+      },
+      {
+        "text": "器具、装置、設備、電気製品"
+      },
+      {
+        "text": "おおよそ、ほぼ"
+      },
+      {
+        "text": "面、様相、顔つき"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「appliance」の意味は「器具、装置、設備、電気製品」です。"
+  },
+  {
+    "question": "What does 'appropriately' mean?",
+    "choices": [
+      {
+        "text": "おおよそ、ほぼ"
+      },
+      {
+        "text": "面、様相、顔つき"
+      },
+      {
+        "text": "適切に、ふさわしく"
+      },
+      {
+        "text": "観客席、大講義室"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「appropriately」の意味は「適切に、ふさわしく」です。"
+  },
+  {
+    "question": "What does 'approximately' mean?",
+    "choices": [
+      {
+        "text": "面、様相、顔つき"
+      },
+      {
+        "text": "観客席、大講義室"
+      },
+      {
+        "text": "つける、宣言する、入札"
+      },
+      {
+        "text": "おおよそ、ほぼ"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「approximately」の意味は「おおよそ、ほぼ」です。"
+  },
+  {
+    "question": "What does 'aspect' mean?",
+    "choices": [
+      {
+        "text": "面、様相、顔つき"
+      },
+      {
+        "text": "観客席、大講義室"
+      },
+      {
+        "text": "つける、宣言する、入札"
+      },
+      {
+        "text": "パンフレット、小冊子"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「aspect」の意味は「面、様相、顔つき」です。"
+  },
+  {
+    "question": "What does 'auditorium' mean?",
+    "choices": [
+      {
+        "text": "つける、宣言する、入札"
+      },
+      {
+        "text": "観客席、大講義室"
+      },
+      {
+        "text": "パンフレット、小冊子"
+      },
+      {
+        "text": "候補者"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「auditorium」の意味は「観客席、大講義室」です。"
+  },
+  {
+    "question": "What does 'bid' mean?",
+    "choices": [
+      {
+        "text": "パンフレット、小冊子"
+      },
+      {
+        "text": "候補者"
+      },
+      {
+        "text": "つける、宣言する、入札"
+      },
+      {
+        "text": "ボール紙、厚紙"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「bid」の意味は「つける、宣言する、入札」です。"
+  },
+  {
+    "question": "What does 'brochure' mean?",
+    "choices": [
+      {
+        "text": "候補者"
+      },
+      {
+        "text": "ボール紙、厚紙"
+      },
+      {
+        "text": "健康診断、検査"
+      },
+      {
+        "text": "パンフレット、小冊子"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「brochure」の意味は「パンフレット、小冊子」です。"
+  },
+  {
+    "question": "What does 'candidate' mean?",
+    "choices": [
+      {
+        "text": "候補者"
+      },
+      {
+        "text": "ボール紙、厚紙"
+      },
+      {
+        "text": "健康診断、検査"
+      },
+      {
+        "text": "ほめる、推薦する、ゆだねる"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「candidate」の意味は「候補者」です。"
+  },
+  {
+    "question": "What does 'cardboard' mean?",
+    "choices": [
+      {
+        "text": "健康診断、検査"
+      },
+      {
+        "text": "ボール紙、厚紙"
+      },
+      {
+        "text": "ほめる、推薦する、ゆだねる"
+      },
+      {
+        "text": "構成している、成分の"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「cardboard」の意味は「ボール紙、厚紙」です。"
+  },
+  {
+    "question": "What does 'checkup' mean?",
+    "choices": [
+      {
+        "text": "ほめる、推薦する、ゆだねる"
+      },
+      {
+        "text": "構成している、成分の"
+      },
+      {
+        "text": "健康診断、検査"
+      },
+      {
+        "text": "行為、経営、指揮する、案内する、行う"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「checkup」の意味は「健康診断、検査」です。"
+  },
+  {
+    "question": "What does 'commend' mean?",
+    "choices": [
+      {
+        "text": "構成している、成分の"
+      },
+      {
+        "text": "行為、経営、指揮する、案内する、行う"
+      },
+      {
+        "text": "料理、料理法"
+      },
+      {
+        "text": "ほめる、推薦する、ゆだねる"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「commend」の意味は「ほめる、推薦する、ゆだねる」です。"
+  },
+  {
+    "question": "What does 'component' mean?",
+    "choices": [
+      {
+        "text": "構成している、成分の"
+      },
+      {
+        "text": "行為、経営、指揮する、案内する、行う"
+      },
+      {
+        "text": "料理、料理法"
+      },
+      {
+        "text": "不足額、不足、赤字"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「component」の意味は「構成している、成分の」です。"
+  },
+  {
+    "question": "What does 'conduct' mean?",
+    "choices": [
+      {
+        "text": "料理、料理法"
+      },
+      {
+        "text": "行為、経営、指揮する、案内する、行う"
+      },
+      {
+        "text": "不足額、不足、赤字"
+      },
+      {
+        "text": "要求する、要求、需要"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「conduct」の意味は「行為、経営、指揮する、案内する、行う」です。"
+  },
+  {
+    "question": "What does 'cuisine' mean?",
+    "choices": [
+      {
+        "text": "不足額、不足、赤字"
+      },
+      {
+        "text": "要求する、要求、需要"
+      },
+      {
+        "text": "料理、料理法"
+      },
+      {
+        "text": "指名する、選定する、任じる、名づける"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「cuisine」の意味は「料理、料理法」です。"
+  },
+  {
+    "question": "What does 'deficit' mean?",
+    "choices": [
+      {
+        "text": "要求する、要求、需要"
+      },
+      {
+        "text": "指名する、選定する、任じる、名づける"
+      },
+      {
+        "text": "捨てる、処分する"
+      },
+      {
+        "text": "不足額、不足、赤字"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「deficit」の意味は「不足額、不足、赤字」です。"
+  },
+  {
+    "question": "What does 'demand' mean?",
+    "choices": [
+      {
+        "text": "要求する、要求、需要"
+      },
+      {
+        "text": "指名する、選定する、任じる、名づける"
+      },
+      {
+        "text": "捨てる、処分する"
+      },
+      {
+        "text": "永続性のある、長持ちする、丈夫な"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「demand」の意味は「要求する、要求、需要」です。"
+  },
+  {
+    "question": "What does 'designate' mean?",
+    "choices": [
+      {
+        "text": "捨てる、処分する"
+      },
+      {
+        "text": "指名する、選定する、任じる、名づける"
+      },
+      {
+        "text": "永続性のある、長持ちする、丈夫な"
+      },
+      {
+        "text": "適格で、望ましくて"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「designate」の意味は「指名する、選定する、任じる、名づける」です。"
+  },
+  {
+    "question": "What does 'discard' mean?",
+    "choices": [
+      {
+        "text": "永続性のある、長持ちする、丈夫な"
+      },
+      {
+        "text": "適格で、望ましくて"
+      },
+      {
+        "text": "捨てる、処分する"
+      },
+      {
+        "text": "ばつの悪い、やっかいな"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「discard」の意味は「捨てる、処分する」です。"
+  },
+  {
+    "question": "What does 'durable' mean?",
+    "choices": [
+      {
+        "text": "適格で、望ましくて"
+      },
+      {
+        "text": "ばつの悪い、やっかいな"
+      },
+      {
+        "text": "熱烈な、熱中して"
+      },
+      {
+        "text": "永続性のある、長持ちする、丈夫な"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「durable」の意味は「永続性のある、長持ちする、丈夫な」です。"
+  },
+  {
+    "question": "What does 'eligible' mean?",
+    "choices": [
+      {
+        "text": "適格で、望ましくて"
+      },
+      {
+        "text": "ばつの悪い、やっかいな"
+      },
+      {
+        "text": "熱烈な、熱中して"
+      },
+      {
+        "text": "排他的な、高級な、独占的な"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「eligible」の意味は「適格で、望ましくて」です。"
+  },
+  {
+    "question": "What does 'embarrassing' mean?",
+    "choices": [
+      {
+        "text": "熱烈な、熱中して"
+      },
+      {
+        "text": "ばつの悪い、やっかいな"
+      },
+      {
+        "text": "排他的な、高級な、独占的な"
+      },
+      {
+        "text": "はかどらせる、促進させる"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「embarrassing」の意味は「ばつの悪い、やっかいな」です。"
+  },
+  {
+    "question": "What does 'enthusiastic' mean?",
+    "choices": [
+      {
+        "text": "排他的な、高級な、独占的な"
+      },
+      {
+        "text": "はかどらせる、促進させる"
+      },
+      {
+        "text": "熱烈な、熱中して"
+      },
+      {
+        "text": "満了する、終了する、死ぬ"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「enthusiastic」の意味は「熱烈な、熱中して」です。"
+  },
+  {
+    "question": "What does 'exclusive' mean?",
+    "choices": [
+      {
+        "text": "はかどらせる、促進させる"
+      },
+      {
+        "text": "満了する、終了する、死ぬ"
+      },
+      {
+        "text": "消す、失わせる"
+      },
+      {
+        "text": "排他的な、高級な、独占的な"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「exclusive」の意味は「排他的な、高級な、独占的な」です。"
+  },
+  {
+    "question": "What does 'expedite' mean?",
+    "choices": [
+      {
+        "text": "はかどらせる、促進させる"
+      },
+      {
+        "text": "満了する、終了する、死ぬ"
+      },
+      {
+        "text": "消す、失わせる"
+      },
+      {
+        "text": "容易にする、楽にする、促進する"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「expedite」の意味は「はかどらせる、促進させる」です。"
+  },
+  {
+    "question": "What does 'expire' mean?",
+    "choices": [
+      {
+        "text": "消す、失わせる"
+      },
+      {
+        "text": "満了する、終了する、死ぬ"
+      },
+      {
+        "text": "容易にする、楽にする、促進する"
+      },
+      {
+        "text": "玄関、廊下"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「expire」の意味は「満了する、終了する、死ぬ」です。"
+  },
+  {
+    "question": "What does 'extinguish' mean?",
+    "choices": [
+      {
+        "text": "容易にする、楽にする、促進する"
+      },
+      {
+        "text": "玄関、廊下"
+      },
+      {
+        "text": "消す、失わせる"
+      },
+      {
+        "text": "折りたたみ広告、刷り物、ハンドアウト、施し物"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「extinguish」の意味は「消す、失わせる」です。"
+  },
+  {
+    "question": "What does 'facilitate' mean?",
+    "choices": [
+      {
+        "text": "玄関、廊下"
+      },
+      {
+        "text": "折りたたみ広告、刷り物、ハンドアウト、施し物"
+      },
+      {
+        "text": "目録、棚卸し"
+      },
+      {
+        "text": "容易にする、楽にする、促進する"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「facilitate」の意味は「容易にする、楽にする、促進する」です。"
+  },
+  {
+    "question": "What does 'hallway' mean?",
+    "choices": [
+      {
+        "text": "玄関、廊下"
+      },
+      {
+        "text": "折りたたみ広告、刷り物、ハンドアウト、施し物"
+      },
+      {
+        "text": "目録、棚卸し"
+      },
+      {
+        "text": "正しいとする、正当化する"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「hallway」の意味は「玄関、廊下」です。"
+  },
+  {
+    "question": "What does 'handout' mean?",
+    "choices": [
+      {
+        "text": "目録、棚卸し"
+      },
+      {
+        "text": "折りたたみ広告、刷り物、ハンドアウト、施し物"
+      },
+      {
+        "text": "正しいとする、正当化する"
+      },
+      {
+        "text": "くじ引き、運"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「handout」の意味は「折りたたみ広告、刷り物、ハンドアウト、施し物」です。"
+  },
+  {
+    "question": "What does 'inventory' mean?",
+    "choices": [
+      {
+        "text": "正しいとする、正当化する"
+      },
+      {
+        "text": "くじ引き、運"
+      },
+      {
+        "text": "目録、棚卸し"
+      },
+      {
+        "text": "初心者、駆け出しの"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「inventory」の意味は「目録、棚卸し」です。"
+  },
+  {
+    "question": "What does 'justify' mean?",
+    "choices": [
+      {
+        "text": "くじ引き、運"
+      },
+      {
+        "text": "初心者、駆け出しの"
+      },
+      {
+        "text": "せざるをえなくて、ありがたく思って"
+      },
+      {
+        "text": "正しいとする、正当化する"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「justify」の意味は「正しいとする、正当化する」です。"
+  },
+  {
+    "question": "What does 'lottery' mean?",
+    "choices": [
+      {
+        "text": "くじ引き、運"
+      },
+      {
+        "text": "初心者、駆け出しの"
+      },
+      {
+        "text": "せざるをえなくて、ありがたく思って"
+      },
+      {
+        "text": "旧式の、時代遅れの"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「lottery」の意味は「くじ引き、運」です。"
+  },
+  {
+    "question": "What does 'novice' mean?",
+    "choices": [
+      {
+        "text": "せざるをえなくて、ありがたく思って"
+      },
+      {
+        "text": "初心者、駆け出しの"
+      },
+      {
+        "text": "旧式の、時代遅れの"
+      },
+      {
+        "text": "卵形の、楕円形の"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「novice」の意味は「初心者、駆け出しの」です。"
+  },
+  {
+    "question": "What does 'obliged' mean?",
+    "choices": [
+      {
+        "text": "旧式の、時代遅れの"
+      },
+      {
+        "text": "卵形の、楕円形の"
+      },
+      {
+        "text": "せざるをえなくて、ありがたく思って"
+      },
+      {
+        "text": "歩行者、競歩者"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「obliged」の意味は「せざるをえなくて、ありがたく思って」です。"
+  },
+  {
+    "question": "What does 'outdated' mean?",
+    "choices": [
+      {
+        "text": "卵形の、楕円形の"
+      },
+      {
+        "text": "歩行者、競歩者"
+      },
+      {
+        "text": "配管工、水道業者"
+      },
+      {
+        "text": "旧式の、時代遅れの"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「outdated」の意味は「旧式の、時代遅れの」です。"
+  },
+  {
+    "question": "What does 'oval' mean?",
+    "choices": [
+      {
+        "text": "卵形の、楕円形の"
+      },
+      {
+        "text": "歩行者、競歩者"
+      },
+      {
+        "text": "配管工、水道業者"
+      },
+      {
+        "text": "陶器製造、焼き物、窯元"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「oval」の意味は「卵形の、楕円形の」です。"
+  },
+  {
+    "question": "What does 'pedestrian' mean?",
+    "choices": [
+      {
+        "text": "配管工、水道業者"
+      },
+      {
+        "text": "歩行者、競歩者"
+      },
+      {
+        "text": "陶器製造、焼き物、窯元"
+      },
+      {
+        "text": "前提、家屋"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「pedestrian」の意味は「歩行者、競歩者」です。"
+  },
+  {
+    "question": "What does 'plumber' mean?",
+    "choices": [
+      {
+        "text": "陶器製造、焼き物、窯元"
+      },
+      {
+        "text": "前提、家屋"
+      },
+      {
+        "text": "配管工、水道業者"
+      },
+      {
+        "text": "手続き、訴訟手続き、"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「plumber」の意味は「配管工、水道業者」です。"
+  },
+  {
+    "question": "What does 'pottery' mean?",
+    "choices": [
+      {
+        "text": "前提、家屋"
+      },
+      {
+        "text": "手続き、訴訟手続き、"
+      },
+      {
+        "text": "禁止する、妨げる"
+      },
+      {
+        "text": "陶器製造、焼き物、窯元"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「pottery」の意味は「陶器製造、焼き物、窯元」です。"
+  },
+  {
+    "question": "What does 'premise' mean?",
+    "choices": [
+      {
+        "text": "前提、家屋"
+      },
+      {
+        "text": "手続き、訴訟手続き、"
+      },
+      {
+        "text": "禁止する、妨げる"
+      },
+      {
+        "text": "財産、所有物、土地、特性"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「premise」の意味は「前提、家屋」です。"
+  },
+  {
+    "question": "What does 'procedure' mean?",
+    "choices": [
+      {
+        "text": "禁止する、妨げる"
+      },
+      {
+        "text": "手続き、訴訟手続き、"
+      },
+      {
+        "text": "財産、所有物、土地、特性"
+      },
+      {
+        "text": "追う、追求する、従事する"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「procedure」の意味は「手続き、訴訟手続き、」です。"
+  },
+  {
+    "question": "What does 'prohibit' mean?",
+    "choices": [
+      {
+        "text": "財産、所有物、土地、特性"
+      },
+      {
+        "text": "追う、追求する、従事する"
+      },
+      {
+        "text": "禁止する、妨げる"
+      },
+      {
+        "text": "参考、参考文献、証明書"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「prohibit」の意味は「禁止する、妨げる」です。"
+  },
+  {
+    "question": "What does 'property' mean?",
+    "choices": [
+      {
+        "text": "追う、追求する、従事する"
+      },
+      {
+        "text": "参考、参考文献、証明書"
+      },
+      {
+        "text": "払い戻す、弁済する、返済する"
+      },
+      {
+        "text": "財産、所有物、土地、特性"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「property」の意味は「財産、所有物、土地、特性」です。"
+  },
+  {
+    "question": "What does 'pursue' mean?",
+    "choices": [
+      {
+        "text": "追う、追求する、従事する"
+      },
+      {
+        "text": "参考、参考文献、証明書"
+      },
+      {
+        "text": "払い戻す、弁済する、返済する"
+      },
+      {
+        "text": "除去、ほっとすること、安心、救援"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「pursue」の意味は「追う、追求する、従事する」です。"
+  },
+  {
+    "question": "What does 'reference' mean?",
+    "choices": [
+      {
+        "text": "払い戻す、弁済する、返済する"
+      },
+      {
+        "text": "参考、参考文献、証明書"
+      },
+      {
+        "text": "除去、ほっとすること、安心、救援"
+      },
+      {
+        "text": "回収する、取り戻す"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「reference」の意味は「参考、参考文献、証明書」です。"
+  },
+  {
+    "question": "What does 'reimburse' mean?",
+    "choices": [
+      {
+        "text": "除去、ほっとすること、安心、救援"
+      },
+      {
+        "text": "回収する、取り戻す"
+      },
+      {
+        "text": "払い戻す、弁済する、返済する"
+      },
+      {
+        "text": "買い物客、買い物袋、密告者"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「reimburse」の意味は「払い戻す、弁済する、返済する」です。"
+  },
+  {
+    "question": "What does 'relief' mean?",
+    "choices": [
+      {
+        "text": "回収する、取り戻す"
+      },
+      {
+        "text": "買い物客、買い物袋、密告者"
+      },
+      {
+        "text": "粘板岩、石板、候補者名簿"
+      },
+      {
+        "text": "除去、ほっとすること、安心、救援"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「relief」の意味は「除去、ほっとすること、安心、救援」です。"
+  },
+  {
+    "question": "What does 'retrieve' mean?",
+    "choices": [
+      {
+        "text": "回収する、取り戻す"
+      },
+      {
+        "text": "買い物客、買い物袋、密告者"
+      },
+      {
+        "text": "粘板岩、石板、候補者名簿"
+      },
+      {
+        "text": "記念品、みやげ"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「retrieve」の意味は「回収する、取り戻す」です。"
+  },
+  {
+    "question": "What does 'shopper' mean?",
+    "choices": [
+      {
+        "text": "粘板岩、石板、候補者名簿"
+      },
+      {
+        "text": "買い物客、買い物袋、密告者"
+      },
+      {
+        "text": "記念品、みやげ"
+      },
+      {
+        "text": "思索する、推測をする"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「shopper」の意味は「買い物客、買い物袋、密告者」です。"
+  },
+  {
+    "question": "What does 'slate' mean?",
+    "choices": [
+      {
+        "text": "記念品、みやげ"
+      },
+      {
+        "text": "思索する、推測をする"
+      },
+      {
+        "text": "粘板岩、石板、候補者名簿"
+      },
+      {
+        "text": "停止、休止、行き詰まり"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「slate」の意味は「粘板岩、石板、候補者名簿」です。"
+  },
+  {
+    "question": "What does 'souvenir' mean?",
+    "choices": [
+      {
+        "text": "思索する、推測をする"
+      },
+      {
+        "text": "停止、休止、行き詰まり"
+      },
+      {
+        "text": "ぶらつく、散歩する"
+      },
+      {
+        "text": "記念品、みやげ"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「souvenir」の意味は「記念品、みやげ」です。"
+  },
+  {
+    "question": "What does 'speculate' mean?",
+    "choices": [
+      {
+        "text": "思索する、推測をする"
+      },
+      {
+        "text": "停止、休止、行き詰まり"
+      },
+      {
+        "text": "ぶらつく、散歩する"
+      },
+      {
+        "text": "補足する、助成金の"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「speculate」の意味は「思索する、推測をする」です。"
+  },
+  {
+    "question": "What does 'standstill' mean?",
+    "choices": [
+      {
+        "text": "ぶらつく、散歩する"
+      },
+      {
+        "text": "停止、休止、行き詰まり"
+      },
+      {
+        "text": "補足する、助成金の"
+      },
+      {
+        "text": "代える、取り替える"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「standstill」の意味は「停止、休止、行き詰まり」です。"
+  },
+  {
+    "question": "What does 'stroll' mean?",
+    "choices": [
+      {
+        "text": "補足する、助成金の"
+      },
+      {
+        "text": "代える、取り替える"
+      },
+      {
+        "text": "ぶらつく、散歩する"
+      },
+      {
+        "text": "すばらしい、堂々とした、壮麗な"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「stroll」の意味は「ぶらつく、散歩する」です。"
+  },
+  {
+    "question": "What does 'subsidiary' mean?",
+    "choices": [
+      {
+        "text": "代える、取り替える"
+      },
+      {
+        "text": "すばらしい、堂々とした、壮麗な"
+      },
+      {
+        "text": "管理者、長官、部長"
+      },
+      {
+        "text": "補足する、助成金の"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「subsidiary」の意味は「補足する、助成金の」です。"
+  },
+  {
+    "question": "What does 'substitute' mean?",
+    "choices": [
+      {
+        "text": "代える、取り替える"
+      },
+      {
+        "text": "すばらしい、堂々とした、壮麗な"
+      },
+      {
+        "text": "管理者、長官、部長"
+      },
+      {
+        "text": "補足、付録、追加する"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「substitute」の意味は「代える、取り替える」です。"
+  },
+  {
+    "question": "What does 'superb' mean?",
+    "choices": [
+      {
+        "text": "管理者、長官、部長"
+      },
+      {
+        "text": "すばらしい、堂々とした、壮麗な"
+      },
+      {
+        "text": "補足、付録、追加する"
+      },
+      {
+        "text": "上回る、超える、まさる"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「superb」の意味は「すばらしい、堂々とした、壮麗な」です。"
+  },
+  {
+    "question": "What does 'superintendent' mean?",
+    "choices": [
+      {
+        "text": "補足、付録、追加する"
+      },
+      {
+        "text": "上回る、超える、まさる"
+      },
+      {
+        "text": "管理者、長官、部長"
+      },
+      {
+        "text": "囲む、周囲の"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「superintendent」の意味は「管理者、長官、部長」です。"
+  },
+  {
+    "question": "What does 'supplement' mean?",
+    "choices": [
+      {
+        "text": "上回る、超える、まさる"
+      },
+      {
+        "text": "囲む、周囲の"
+      },
+      {
+        "text": "容疑、疑い、いぶかり、気づくこと"
+      },
+      {
+        "text": "補足、付録、追加する"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「supplement」の意味は「補足、付録、追加する」です。"
+  },
+  {
+    "question": "What does 'surpass' mean?",
+    "choices": [
+      {
+        "text": "上回る、超える、まさる"
+      },
+      {
+        "text": "囲む、周囲の"
+      },
+      {
+        "text": "容疑、疑い、いぶかり、気づくこと"
+      },
+      {
+        "text": "迅速に"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「surpass」の意味は「上回る、超える、まさる」です。"
+  },
+  {
+    "question": "What does 'surrounding' mean?",
+    "choices": [
+      {
+        "text": "容疑、疑い、いぶかり、気づくこと"
+      },
+      {
+        "text": "囲む、周囲の"
+      },
+      {
+        "text": "迅速に"
+      },
+      {
+        "text": "関税、運賃表、料金表"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「surrounding」の意味は「囲む、周囲の」です。"
+  },
+  {
+    "question": "What does 'suspicion' mean?",
+    "choices": [
+      {
+        "text": "迅速に"
+      },
+      {
+        "text": "関税、運賃表、料金表"
+      },
+      {
+        "text": "容疑、疑い、いぶかり、気づくこと"
+      },
+      {
+        "text": "解ける、打ち解ける"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「suspicion」の意味は「容疑、疑い、いぶかり、気づくこと」です。"
+  },
+  {
+    "question": "What does 'swiftly' mean?",
+    "choices": [
+      {
+        "text": "関税、運賃表、料金表"
+      },
+      {
+        "text": "解ける、打ち解ける"
+      },
+      {
+        "text": "時計"
+      },
+      {
+        "text": "迅速に"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「swiftly」の意味は「迅速に」です。"
+  },
+  {
+    "question": "What does 'tariff' mean?",
+    "choices": [
+      {
+        "text": "関税、運賃表、料金表"
+      },
+      {
+        "text": "解ける、打ち解ける"
+      },
+      {
+        "text": "時計"
+      },
+      {
+        "text": "しるし、記念品、しるしとなる"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「tariff」の意味は「関税、運賃表、料金表」です。"
+  },
+  {
+    "question": "What does 'thaw' mean?",
+    "choices": [
+      {
+        "text": "時計"
+      },
+      {
+        "text": "解ける、打ち解ける"
+      },
+      {
+        "text": "しるし、記念品、しるしとなる"
+      },
+      {
+        "text": "大目に見る、耐性がある"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「thaw」の意味は「解ける、打ち解ける」です。"
+  },
+  {
+    "question": "What does 'timepiece' mean?",
+    "choices": [
+      {
+        "text": "しるし、記念品、しるしとなる"
+      },
+      {
+        "text": "大目に見る、耐性がある"
+      },
+      {
+        "text": "時計"
+      },
+      {
+        "text": "移す、転任させる、移転、移動"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「timepiece」の意味は「時計」です。"
+  },
+  {
+    "question": "What does 'token' mean?",
+    "choices": [
+      {
+        "text": "大目に見る、耐性がある"
+      },
+      {
+        "text": "移す、転任させる、移転、移動"
+      },
+      {
+        "text": "透明な、わかりやすい"
+      },
+      {
+        "text": "しるし、記念品、しるしとなる"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「token」の意味は「しるし、記念品、しるしとなる」です。"
+  },
+  {
+    "question": "What does 'tolerate' mean?",
+    "choices": [
+      {
+        "text": "大目に見る、耐性がある"
+      },
+      {
+        "text": "移す、転任させる、移転、移動"
+      },
+      {
+        "text": "透明な、わかりやすい"
+      },
+      {
+        "text": "教授、授業料、月謝"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「tolerate」の意味は「大目に見る、耐性がある」です。"
+  },
+  {
+    "question": "What does 'transfer' mean?",
+    "choices": [
+      {
+        "text": "透明な、わかりやすい"
+      },
+      {
+        "text": "移す、転任させる、移転、移動"
+      },
+      {
+        "text": "教授、授業料、月謝"
+      },
+      {
+        "text": "荒れ狂う、激しい、乱暴な"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「transfer」の意味は「移す、転任させる、移転、移動」です。"
+  },
+  {
+    "question": "What does 'transparent' mean?",
+    "choices": [
+      {
+        "text": "教授、授業料、月謝"
+      },
+      {
+        "text": "荒れ狂う、激しい、乱暴な"
+      },
+      {
+        "text": "透明な、わかりやすい"
+      },
+      {
+        "text": "出席者、生産高、解雇する"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「transparent」の意味は「透明な、わかりやすい」です。"
+  },
+  {
+    "question": "What does 'tuition' mean?",
+    "choices": [
+      {
+        "text": "荒れ狂う、激しい、乱暴な"
+      },
+      {
+        "text": "出席者、生産高、解雇する"
+      },
+      {
+        "text": "合意して、満場一致の"
+      },
+      {
+        "text": "教授、授業料、月謝"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「tuition」の意味は「教授、授業料、月謝」です。"
+  },
+  {
+    "question": "What does 'turbulent' mean?",
+    "choices": [
+      {
+        "text": "荒れ狂う、激しい、乱暴な"
+      },
+      {
+        "text": "出席者、生産高、解雇する"
+      },
+      {
+        "text": "合意して、満場一致の"
+      },
+      {
+        "text": "発掘する、明るみに出す"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「turbulent」の意味は「荒れ狂う、激しい、乱暴な」です。"
+  },
+  {
+    "question": "What does 'turnout' mean?",
+    "choices": [
+      {
+        "text": "合意して、満場一致の"
+      },
+      {
+        "text": "出席者、生産高、解雇する"
+      },
+      {
+        "text": "発掘する、明るみに出す"
+      },
+      {
+        "text": "一様、均一、画一、一律"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「turnout」の意味は「出席者、生産高、解雇する」です。"
+  },
+  {
+    "question": "What does 'unanimous' mean?",
+    "choices": [
+      {
+        "text": "発掘する、明るみに出す"
+      },
+      {
+        "text": "一様、均一、画一、一律"
+      },
+      {
+        "text": "合意して、満場一致の"
+      },
+      {
+        "text": "用具、家庭用品"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「unanimous」の意味は「合意して、満場一致の」です。"
+  },
+  {
+    "question": "What does 'unearth' mean?",
+    "choices": [
+      {
+        "text": "一様、均一、画一、一律"
+      },
+      {
+        "text": "用具、家庭用品"
+      },
+      {
+        "text": "利用"
+      },
+      {
+        "text": "発掘する、明るみに出す"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「unearth」の意味は「発掘する、明るみに出す」です。"
+  },
+  {
+    "question": "What does 'uniformity' mean?",
+    "choices": [
+      {
+        "text": "一様、均一、画一、一律"
+      },
+      {
+        "text": "用具、家庭用品"
+      },
+      {
+        "text": "利用"
+      },
+      {
+        "text": "空っぽの、空いている、使用されていない"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「uniformity」の意味は「一様、均一、画一、一律」です。"
+  },
+  {
+    "question": "What does 'utensil' mean?",
+    "choices": [
+      {
+        "text": "利用"
+      },
+      {
+        "text": "用具、家庭用品"
+      },
+      {
+        "text": "空っぽの、空いている、使用されていない"
+      },
+      {
+        "text": "根拠の確実な、有効な、正当な"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「utensil」の意味は「用具、家庭用品」です。"
+  },
+  {
+    "question": "What does 'utilization' mean?",
+    "choices": [
+      {
+        "text": "空っぽの、空いている、使用されていない"
+      },
+      {
+        "text": "根拠の確実な、有効な、正当な"
+      },
+      {
+        "text": "利用"
+      },
+      {
+        "text": "蒸発させる"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「utilization」の意味は「利用」です。"
+  },
+  {
+    "question": "What does 'vacant' mean?",
+    "choices": [
+      {
+        "text": "根拠の確実な、有効な、正当な"
+      },
+      {
+        "text": "蒸発させる"
+      },
+      {
+        "text": "行商人、売り主"
+      },
+      {
+        "text": "空っぽの、空いている、使用されていない"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「vacant」の意味は「空っぽの、空いている、使用されていない」です。"
+  },
+  {
+    "question": "What does 'valid' mean?",
+    "choices": [
+      {
+        "text": "根拠の確実な、有効な、正当な"
+      },
+      {
+        "text": "蒸発させる"
+      },
+      {
+        "text": "行商人、売り主"
+      },
+      {
+        "text": "開催地、予定地、場所"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「valid」の意味は「根拠の確実な、有効な、正当な」です。"
+  },
+  {
+    "question": "What does 'vaporize' mean?",
+    "choices": [
+      {
+        "text": "行商人、売り主"
+      },
+      {
+        "text": "蒸発させる"
+      },
+      {
+        "text": "開催地、予定地、場所"
+      },
+      {
+        "text": "悪、邪悪、欠陥、不備"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「vaporize」の意味は「蒸発させる」です。"
+  },
+  {
+    "question": "What does 'vendor' mean?",
+    "choices": [
+      {
+        "text": "開催地、予定地、場所"
+      },
+      {
+        "text": "悪、邪悪、欠陥、不備"
+      },
+      {
+        "text": "行商人、売り主"
+      },
+      {
+        "text": "徳、美徳、長所"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「vendor」の意味は「行商人、売り主」です。"
+  },
+  {
+    "question": "What does 'venue' mean?",
+    "choices": [
+      {
+        "text": "悪、邪悪、欠陥、不備"
+      },
+      {
+        "text": "徳、美徳、長所"
+      },
+      {
+        "text": "倉庫、貯蔵所"
+      },
+      {
+        "text": "開催地、予定地、場所"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「venue」の意味は「開催地、予定地、場所」です。"
+  },
+  {
+    "question": "What does 'vice' mean?",
+    "choices": [
+      {
+        "text": "悪、邪悪、欠陥、不備"
+      },
+      {
+        "text": "徳、美徳、長所"
+      },
+      {
+        "text": "倉庫、貯蔵所"
+      },
+      {
+        "text": "警告"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「vice」の意味は「悪、邪悪、欠陥、不備」です。"
+  },
+  {
+    "question": "What does 'virtue' mean?",
+    "choices": [
+      {
+        "text": "倉庫、貯蔵所"
+      },
+      {
+        "text": "徳、美徳、長所"
+      },
+      {
+        "text": "警告"
+      },
+      {
+        "text": "根拠、証明書"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「virtue」の意味は「徳、美徳、長所」です。"
+  },
+  {
+    "question": "What does 'warehouse' mean?",
+    "choices": [
+      {
+        "text": "警告"
+      },
+      {
+        "text": "根拠、証明書"
+      },
+      {
+        "text": "倉庫、貯蔵所"
+      },
+      {
+        "text": "福祉、福祉事業、生活保護"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「warehouse」の意味は「倉庫、貯蔵所」です。"
+  },
+  {
+    "question": "What does 'warning' mean?",
+    "choices": [
+      {
+        "text": "根拠、証明書"
+      },
+      {
+        "text": "福祉、福祉事業、生活保護"
+      },
+      {
+        "text": "手押し一輪車"
+      },
+      {
+        "text": "警告"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「warning」の意味は「警告」です。"
+  },
+  {
+    "question": "What does 'warrant' mean?",
+    "choices": [
+      {
+        "text": "根拠、証明書"
+      },
+      {
+        "text": "福祉、福祉事業、生活保護"
+      },
+      {
+        "text": "手押し一輪車"
+      },
+      {
+        "text": "荒れ野、だだっ広い場所"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「warrant」の意味は「根拠、証明書」です。"
+  },
+  {
+    "question": "What does 'welfare' mean?",
+    "choices": [
+      {
+        "text": "手押し一輪車"
+      },
+      {
+        "text": "福祉、福祉事業、生活保護"
+      },
+      {
+        "text": "荒れ野、だだっ広い場所"
+      },
+      {
+        "text": "抵抗する、逆らう、我慢する"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「welfare」の意味は「福祉、福祉事業、生活保護」です。"
+  },
+  {
+    "question": "What does 'wheelbarrow' mean?",
+    "choices": [
+      {
+        "text": "荒れ野、だだっ広い場所"
+      },
+      {
+        "text": "抵抗する、逆らう、我慢する"
+      },
+      {
+        "text": "手押し一輪車"
+      },
+      {
+        "text": "熱心、熱中、熱意"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「wheelbarrow」の意味は「手押し一輪車」です。"
+  },
+  {
+    "question": "What does 'wilderness' mean?",
+    "choices": [
+      {
+        "text": "抵抗する、逆らう、我慢する"
+      },
+      {
+        "text": "熱心、熱中、熱意"
+      },
+      {
+        "text": "熱心な、熱狂的な、熱中して"
+      },
+      {
+        "text": "荒れ野、だだっ広い場所"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「wilderness」の意味は「荒れ野、だだっ広い場所」です。"
+  },
+  {
+    "question": "What does 'withstand' mean?",
+    "choices": [
+      {
+        "text": "抵抗する、逆らう、我慢する"
+      },
+      {
+        "text": "熱心、熱中、熱意"
+      },
+      {
+        "text": "熱心な、熱狂的な、熱中して"
+      },
+      {
+        "text": "天頂、頂点、絶頂"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「withstand」の意味は「抵抗する、逆らう、我慢する」です。"
+  },
+  {
+    "question": "What does 'zeal' mean?",
+    "choices": [
+      {
+        "text": "熱心な、熱狂的な、熱中して"
+      },
+      {
+        "text": "熱心、熱中、熱意"
+      },
+      {
+        "text": "天頂、頂点、絶頂"
+      },
+      {
+        "text": "要約された"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「zeal」の意味は「熱心、熱中、熱意」です。"
+  },
+  {
+    "question": "What does 'zealous' mean?",
+    "choices": [
+      {
+        "text": "天頂、頂点、絶頂"
+      },
+      {
+        "text": "要約された"
+      },
+      {
+        "text": "熱心な、熱狂的な、熱中して"
+      },
+      {
+        "text": "完成した、既成の、熟練した"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「zealous」の意味は「熱心な、熱狂的な、熱中して」です。"
+  },
+  {
+    "question": "What does 'zenith' mean?",
+    "choices": [
+      {
+        "text": "要約された"
+      },
+      {
+        "text": "完成した、既成の、熟練した"
+      },
+      {
+        "text": "承認、領収書、感謝のしるし"
+      },
+      {
+        "text": "天頂、頂点、絶頂"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「zenith」の意味は「天頂、頂点、絶頂」です。"
+  },
+  {
+    "question": "What does 'abridged' mean?",
+    "choices": [
+      {
+        "text": "要約された"
+      },
+      {
+        "text": "完成した、既成の、熟練した"
+      },
+      {
+        "text": "承認、領収書、感謝のしるし"
+      },
+      {
+        "text": "老齢化、老化、熟成"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「abridged」の意味は「要約された」です。"
+  },
+  {
+    "question": "What does 'accomplished' mean?",
+    "choices": [
+      {
+        "text": "承認、領収書、感謝のしるし"
+      },
+      {
+        "text": "完成した、既成の、熟練した"
+      },
+      {
+        "text": "老齢化、老化、熟成"
+      },
+      {
+        "text": "油断のない、警戒して"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「accomplished」の意味は「完成した、既成の、熟練した」です。"
+  },
+  {
+    "question": "What does 'acknowledgement' mean?",
+    "choices": [
+      {
+        "text": "老齢化、老化、熟成"
+      },
+      {
+        "text": "油断のない、警戒して"
+      },
+      {
+        "text": "承認、領収書、感謝のしるし"
+      },
+      {
+        "text": "アレルギー"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「acknowledgement」の意味は「承認、領収書、感謝のしるし」です。"
+  },
+  {
+    "question": "What does 'aging' mean?",
+    "choices": [
+      {
+        "text": "油断のない、警戒して"
+      },
+      {
+        "text": "アレルギー"
+      },
+      {
+        "text": "食欲をそそるもの、前菜"
+      },
+      {
+        "text": "老齢化、老化、熟成"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「aging」の意味は「老齢化、老化、熟成」です。"
+  },
+  {
+    "question": "What does 'alert' mean?",
+    "choices": [
+      {
+        "text": "油断のない、警戒して"
+      },
+      {
+        "text": "アレルギー"
+      },
+      {
+        "text": "食欲をそそるもの、前菜"
+      },
+      {
+        "text": "拍手かっさい、称賛"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「alert」の意味は「油断のない、警戒して」です。"
+  },
+  {
+    "question": "What does 'allergy' mean?",
+    "choices": [
+      {
+        "text": "食欲をそそるもの、前菜"
+      },
+      {
+        "text": "アレルギー"
+      },
+      {
+        "text": "拍手かっさい、称賛"
+      },
+      {
+        "text": "分類した、調和した"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「allergy」の意味は「アレルギー」です。"
+  },
+  {
+    "question": "What does 'appetizer' mean?",
+    "choices": [
+      {
+        "text": "拍手かっさい、称賛"
+      },
+      {
+        "text": "分類した、調和した"
+      },
+      {
+        "text": "食欲をそそるもの、前菜"
+      },
+      {
+        "text": "盛装する"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「appetizer」の意味は「食欲をそそるもの、前菜」です。"
+  },
+  {
+    "question": "What does 'applause' mean?",
+    "choices": [
+      {
+        "text": "分類した、調和した"
+      },
+      {
+        "text": "盛装する"
+      },
+      {
+        "text": "厳しい、質素な"
+      },
+      {
+        "text": "拍手かっさい、称賛"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「applause」の意味は「拍手かっさい、称賛」です。"
+  },
+  {
+    "question": "What does 'assorted' mean?",
+    "choices": [
+      {
+        "text": "分類した、調和した"
+      },
+      {
+        "text": "盛装する"
+      },
+      {
+        "text": "厳しい、質素な"
+      },
+      {
+        "text": "貪欲な、熱心な、渇望して"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「assorted」の意味は「分類した、調和した」です。"
+  },
+  {
+    "question": "What does 'attire' mean?",
+    "choices": [
+      {
+        "text": "厳しい、質素な"
+      },
+      {
+        "text": "盛装する"
+      },
+      {
+        "text": "貪欲な、熱心な、渇望して"
+      },
+      {
+        "text": "禁止、禁止令、禁止する"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「attire」の意味は「盛装する」です。"
+  },
+  {
+    "question": "What does 'austere' mean?",
+    "choices": [
+      {
+        "text": "貪欲な、熱心な、渇望して"
+      },
+      {
+        "text": "禁止、禁止令、禁止する"
+      },
+      {
+        "text": "厳しい、質素な"
+      },
+      {
+        "text": "産む、出産する"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「austere」の意味は「厳しい、質素な」です。"
+  },
+  {
+    "question": "What does 'avid' mean?",
+    "choices": [
+      {
+        "text": "禁止、禁止令、禁止する"
+      },
+      {
+        "text": "産む、出産する"
+      },
+      {
+        "text": "押し上げ、後援、増大"
+      },
+      {
+        "text": "貪欲な、熱心な、渇望して"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「avid」の意味は「貪欲な、熱心な、渇望して」です。"
+  },
+  {
+    "question": "What does 'ban' mean?",
+    "choices": [
+      {
+        "text": "禁止、禁止令、禁止する"
+      },
+      {
+        "text": "産む、出産する"
+      },
+      {
+        "text": "押し上げ、後援、増大"
+      },
+      {
+        "text": "あっと言わせるほど"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「ban」の意味は「禁止、禁止令、禁止する」です。"
+  },
+  {
+    "question": "What does 'bear' mean?",
+    "choices": [
+      {
+        "text": "押し上げ、後援、増大"
+      },
+      {
+        "text": "産む、出産する"
+      },
+      {
+        "text": "あっと言わせるほど"
+      },
+      {
+        "text": "大きさ、積み荷、かさばる"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「bear」の意味は「産む、出産する」です。"
+  },
+  {
+    "question": "What does 'boost' mean?",
+    "choices": [
+      {
+        "text": "あっと言わせるほど"
+      },
+      {
+        "text": "大きさ、積み荷、かさばる"
+      },
+      {
+        "text": "押し上げ、後援、増大"
+      },
+      {
+        "text": "破裂する"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「boost」の意味は「押し上げ、後援、増大」です。"
+  },
+  {
+    "question": "What does 'breathtakingly' mean?",
+    "choices": [
+      {
+        "text": "大きさ、積み荷、かさばる"
+      },
+      {
+        "text": "破裂する"
+      },
+      {
+        "text": "バイパス、側管"
+      },
+      {
+        "text": "あっと言わせるほど"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「breathtakingly」の意味は「あっと言わせるほど」です。"
+  },
+  {
+    "question": "What does 'bulk' mean?",
+    "choices": [
+      {
+        "text": "大きさ、積み荷、かさばる"
+      },
+      {
+        "text": "破裂する"
+      },
+      {
+        "text": "バイパス、側管"
+      },
+      {
+        "text": "運搬人、郵便配達員、新聞配達人、運送業者、運送会社"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「bulk」の意味は「大きさ、積み荷、かさばる」です。"
+  },
+  {
+    "question": "What does 'burst' mean?",
+    "choices": [
+      {
+        "text": "バイパス、側管"
+      },
+      {
+        "text": "破裂する"
+      },
+      {
+        "text": "運搬人、郵便配達員、新聞配達人、運送業者、運送会社"
+      },
+      {
+        "text": "保証された、公認の"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「burst」の意味は「破裂する」です。"
+  },
+  {
+    "question": "What does 'bypass' mean?",
+    "choices": [
+      {
+        "text": "運搬人、郵便配達員、新聞配達人、運送業者、運送会社"
+      },
+      {
+        "text": "保証された、公認の"
+      },
+      {
+        "text": "バイパス、側管"
+      },
+      {
+        "text": "長引く、ひどい"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「bypass」の意味は「バイパス、側管」です。"
+  },
+  {
+    "question": "What does 'carrier' mean?",
+    "choices": [
+      {
+        "text": "保証された、公認の"
+      },
+      {
+        "text": "長引く、ひどい"
+      },
+      {
+        "text": "循環、流通、発行部数、売れ行き"
+      },
+      {
+        "text": "運搬人、郵便配達員、新聞配達人、運送業者、運送会社"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「carrier」の意味は「運搬人、郵便配達員、新聞配達人、運送業者、運送会社」です。"
+  },
+  {
+    "question": "What does 'certified' mean?",
+    "choices": [
+      {
+        "text": "保証された、公認の"
+      },
+      {
+        "text": "長引く、ひどい"
+      },
+      {
+        "text": "循環、流通、発行部数、売れ行き"
+      },
+      {
+        "text": "引用する"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「certified」の意味は「保証された、公認の」です。"
+  },
+  {
+    "question": "What does 'chronic' mean?",
+    "choices": [
+      {
+        "text": "循環、流通、発行部数、売れ行き"
+      },
+      {
+        "text": "長引く、ひどい"
+      },
+      {
+        "text": "引用する"
+      },
+      {
+        "text": "巨大な、すばらしい"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「chronic」の意味は「長引く、ひどい」です。"
+  },
+  {
+    "question": "What does 'circulation' mean?",
+    "choices": [
+      {
+        "text": "引用する"
+      },
+      {
+        "text": "巨大な、すばらしい"
+      },
+      {
+        "text": "循環、流通、発行部数、売れ行き"
+      },
+      {
+        "text": "商業、通商、貿易、交際"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「circulation」の意味は「循環、流通、発行部数、売れ行き」です。"
+  },
+  {
+    "question": "What does 'cite' mean?",
+    "choices": [
+      {
+        "text": "巨大な、すばらしい"
+      },
+      {
+        "text": "商業、通商、貿易、交際"
+      },
+      {
+        "text": "応じること、親切"
+      },
+      {
+        "text": "引用する"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「cite」の意味は「引用する」です。"
+  },
+  {
+    "question": "What does 'colossal' mean?",
+    "choices": [
+      {
+        "text": "巨大な、すばらしい"
+      },
+      {
+        "text": "商業、通商、貿易、交際"
+      },
+      {
+        "text": "応じること、親切"
+      },
+      {
+        "text": "構成している、成分の"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「colossal」の意味は「巨大な、すばらしい」です。"
+  },
+  {
+    "question": "What does 'commerce' mean?",
+    "choices": [
+      {
+        "text": "応じること、親切"
+      },
+      {
+        "text": "商業、通商、貿易、交際"
+      },
+      {
+        "text": "構成している、成分の"
+      },
+      {
+        "text": "信任の厚い、内々の、打ち解けて"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「commerce」の意味は「商業、通商、貿易、交際」です。"
+  },
+  {
+    "question": "What does 'compliance' mean?",
+    "choices": [
+      {
+        "text": "構成している、成分の"
+      },
+      {
+        "text": "信任の厚い、内々の、打ち解けて"
+      },
+      {
+        "text": "応じること、親切"
+      },
+      {
+        "text": "首尾一貫した、矛盾のない、調和して"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「compliance」の意味は「応じること、親切」です。"
+  },
+  {
+    "question": "What does 'component' mean?",
+    "choices": [
+      {
+        "text": "信任の厚い、内々の、打ち解けて"
+      },
+      {
+        "text": "首尾一貫した、矛盾のない、調和して"
+      },
+      {
+        "text": "特派員、一致する"
+      },
+      {
+        "text": "構成している、成分の"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「component」の意味は「構成している、成分の」です。"
+  },
+  {
+    "question": "What does 'confidential' mean?",
+    "choices": [
+      {
+        "text": "信任の厚い、内々の、打ち解けて"
+      },
+      {
+        "text": "首尾一貫した、矛盾のない、調和して"
+      },
+      {
+        "text": "特派員、一致する"
+      },
+      {
+        "text": "礼儀正しく思いやりのある、親切な"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「confidential」の意味は「信任の厚い、内々の、打ち解けて」です。"
+  },
+  {
+    "question": "What does 'consistent' mean?",
+    "choices": [
+      {
+        "text": "特派員、一致する"
+      },
+      {
+        "text": "首尾一貫した、矛盾のない、調和して"
+      },
+      {
+        "text": "礼儀正しく思いやりのある、親切な"
+      },
+      {
+        "text": "臆病な、ひきょうな、臆病者"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「consistent」の意味は「首尾一貫した、矛盾のない、調和して」です。"
+  },
+  {
+    "question": "What does 'correspondent' mean?",
+    "choices": [
+      {
+        "text": "礼儀正しく思いやりのある、親切な"
+      },
+      {
+        "text": "臆病な、ひきょうな、臆病者"
+      },
+      {
+        "text": "特派員、一致する"
+      },
+      {
+        "text": "台所の、料理の"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「correspondent」の意味は「特派員、一致する」です。"
+  },
+  {
+    "question": "What does 'courteous' mean?",
+    "choices": [
+      {
+        "text": "臆病な、ひきょうな、臆病者"
+      },
+      {
+        "text": "台所の、料理の"
+      },
+      {
+        "text": "預金する、手付金として支払う、預金"
+      },
+      {
+        "text": "礼儀正しく思いやりのある、親切な"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「courteous」の意味は「礼儀正しく思いやりのある、親切な」です。"
+  },
+  {
+    "question": "What does 'craven' mean?",
+    "choices": [
+      {
+        "text": "臆病な、ひきょうな、臆病者"
+      },
+      {
+        "text": "台所の、料理の"
+      },
+      {
+        "text": "預金する、手付金として支払う、預金"
+      },
+      {
+        "text": "特色のある、特有の"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「craven」の意味は「臆病な、ひきょうな、臆病者」です。"
+  },
+  {
+    "question": "What does 'culinary' mean?",
+    "choices": [
+      {
+        "text": "預金する、手付金として支払う、預金"
+      },
+      {
+        "text": "台所の、料理の"
+      },
+      {
+        "text": "特色のある、特有の"
+      },
+      {
+        "text": "すぐれた、著名で、上品な"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「culinary」の意味は「台所の、料理の」です。"
+  },
+  {
+    "question": "What does 'deposit' mean?",
+    "choices": [
+      {
+        "text": "特色のある、特有の"
+      },
+      {
+        "text": "すぐれた、著名で、上品な"
+      },
+      {
+        "text": "預金する、手付金として支払う、預金"
+      },
+      {
+        "text": "眠気"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「deposit」の意味は「預金する、手付金として支払う、預金」です。"
+  },
+  {
+    "question": "What does 'distinctive' mean?",
+    "choices": [
+      {
+        "text": "すぐれた、著名で、上品な"
+      },
+      {
+        "text": "眠気"
+      },
+      {
+        "text": "熱中、熱狂、熱中させるもの"
+      },
+      {
+        "text": "特色のある、特有の"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「distinctive」の意味は「特色のある、特有の」です。"
+  },
+  {
+    "question": "What does 'distinguished' mean?",
+    "choices": [
+      {
+        "text": "すぐれた、著名で、上品な"
+      },
+      {
+        "text": "眠気"
+      },
+      {
+        "text": "熱中、熱狂、熱中させるもの"
+      },
+      {
+        "text": "起業家、事業家"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「distinguished」の意味は「すぐれた、著名で、上品な」です。"
+  },
+  {
+    "question": "What does 'drowsiness' mean?",
+    "choices": [
+      {
+        "text": "熱中、熱狂、熱中させるもの"
+      },
+      {
+        "text": "眠気"
+      },
+      {
+        "text": "起業家、事業家"
+      },
+      {
+        "text": "例外的な、異常な、すぐれた"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「drowsiness」の意味は「眠気」です。"
+  },
+  {
+    "question": "What does 'enthusiasm' mean?",
+    "choices": [
+      {
+        "text": "起業家、事業家"
+      },
+      {
+        "text": "例外的な、異常な、すぐれた"
+      },
+      {
+        "text": "熱中、熱狂、熱中させるもの"
+      },
+      {
+        "text": "開放する、免除する"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「enthusiasm」の意味は「熱中、熱狂、熱中させるもの」です。"
+  },
+  {
+    "question": "What does 'entrepreneur' mean?",
+    "choices": [
+      {
+        "text": "例外的な、異常な、すぐれた"
+      },
+      {
+        "text": "開放する、免除する"
+      },
+      {
+        "text": "指数関数的に"
+      },
+      {
+        "text": "起業家、事業家"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「entrepreneur」の意味は「起業家、事業家」です。"
+  },
+  {
+    "question": "What does 'exceptional' mean?",
+    "choices": [
+      {
+        "text": "例外的な、異常な、すぐれた"
+      },
+      {
+        "text": "開放する、免除する"
+      },
+      {
+        "text": "指数関数的に"
+      },
+      {
+        "text": "伝説上の、信じられないほどの、すばらしい"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「exceptional」の意味は「例外的な、異常な、すぐれた」です。"
+  },
+  {
+    "question": "What does 'exonerate' mean?",
+    "choices": [
+      {
+        "text": "指数関数的に"
+      },
+      {
+        "text": "開放する、免除する"
+      },
+      {
+        "text": "伝説上の、信じられないほどの、すばらしい"
+      },
+      {
+        "text": "能力、機能、学部"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「exonerate」の意味は「開放する、免除する」です。"
+  },
+  {
+    "question": "What does 'exponentially' mean?",
+    "choices": [
+      {
+        "text": "伝説上の、信じられないほどの、すばらしい"
+      },
+      {
+        "text": "能力、機能、学部"
+      },
+      {
+        "text": "指数関数的に"
+      },
+      {
+        "text": "前の、以前の、前者"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「exponentially」の意味は「指数関数的に」です。"
+  },
+  {
+    "question": "What does 'fabulous' mean?",
+    "choices": [
+      {
+        "text": "能力、機能、学部"
+      },
+      {
+        "text": "前の、以前の、前者"
+      },
+      {
+        "text": "壊れやすい、もろい、はかない"
+      },
+      {
+        "text": "伝説上の、信じられないほどの、すばらしい"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「fabulous」の意味は「伝説上の、信じられないほどの、すばらしい」です。"
+  },
+  {
+    "question": "What does 'faculty' mean?",
+    "choices": [
+      {
+        "text": "能力、機能、学部"
+      },
+      {
+        "text": "前の、以前の、前者"
+      },
+      {
+        "text": "壊れやすい、もろい、はかない"
+      },
+      {
+        "text": "立ち止まる、停止する、不完全である"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「faculty」の意味は「能力、機能、学部」です。"
+  },
+  {
+    "question": "What does 'former' mean?",
+    "choices": [
+      {
+        "text": "壊れやすい、もろい、はかない"
+      },
+      {
+        "text": "前の、以前の、前者"
+      },
+      {
+        "text": "立ち止まる、停止する、不完全である"
+      },
+      {
+        "text": "興奮した、てんてこまいの、消耗熱の"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「former」の意味は「前の、以前の、前者」です。"
+  },
+  {
+    "question": "What does 'fragile' mean?",
+    "choices": [
+      {
+        "text": "立ち止まる、停止する、不完全である"
+      },
+      {
+        "text": "興奮した、てんてこまいの、消耗熱の"
+      },
+      {
+        "text": "壊れやすい、もろい、はかない"
+      },
+      {
+        "text": "道具、用具、手段"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「fragile」の意味は「壊れやすい、もろい、はかない」です。"
+  },
+  {
+    "question": "What does 'halt' mean?",
+    "choices": [
+      {
+        "text": "興奮した、てんてこまいの、消耗熱の"
+      },
+      {
+        "text": "道具、用具、手段"
+      },
+      {
+        "text": "不良な、荒れ模様の"
+      },
+      {
+        "text": "立ち止まる、停止する、不完全である"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「halt」の意味は「立ち止まる、停止する、不完全である」です。"
+  },
+  {
+    "question": "What does 'hectic' mean?",
+    "choices": [
+      {
+        "text": "興奮した、てんてこまいの、消耗熱の"
+      },
+      {
+        "text": "道具、用具、手段"
+      },
+      {
+        "text": "不良な、荒れ模様の"
+      },
+      {
+        "text": "知識を与える、教育的な、有益な"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「hectic」の意味は「興奮した、てんてこまいの、消耗熱の」です。"
+  },
+  {
+    "question": "What does 'implement' mean?",
+    "choices": [
+      {
+        "text": "不良な、荒れ模様の"
+      },
+      {
+        "text": "道具、用具、手段"
+      },
+      {
+        "text": "知識を与える、教育的な、有益な"
+      },
+      {
+        "text": "受け継ぐ、相続する、遺伝する"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「implement」の意味は「道具、用具、手段」です。"
+  },
+  {
+    "question": "What does 'inclement' mean?",
+    "choices": [
+      {
+        "text": "知識を与える、教育的な、有益な"
+      },
+      {
+        "text": "受け継ぐ、相続する、遺伝する"
+      },
+      {
+        "text": "不良な、荒れ模様の"
+      },
+      {
+        "text": "手始め、主導権"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「inclement」の意味は「不良な、荒れ模様の」です。"
+  },
+  {
+    "question": "What does 'informative' mean?",
+    "choices": [
+      {
+        "text": "受け継ぐ、相続する、遺伝する"
+      },
+      {
+        "text": "手始め、主導権"
+      },
+      {
+        "text": "小旅館、小ホテル、宿屋"
+      },
+      {
+        "text": "知識を与える、教育的な、有益な"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「informative」の意味は「知識を与える、教育的な、有益な」です。"
+  },
+  {
+    "question": "What does 'inherit' mean?",
+    "choices": [
+      {
+        "text": "受け継ぐ、相続する、遺伝する"
+      },
+      {
+        "text": "手始め、主導権"
+      },
+      {
+        "text": "小旅館、小ホテル、宿屋"
+      },
+      {
+        "text": "発声、発生率、投射"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「inherit」の意味は「受け継ぐ、相続する、遺伝する」です。"
+  },
+  {
+    "question": "What does 'initiative' mean?",
+    "choices": [
+      {
+        "text": "小旅館、小ホテル、宿屋"
+      },
+      {
+        "text": "手始め、主導権"
+      },
+      {
+        "text": "発声、発生率、投射"
+      },
+      {
+        "text": "休止、まくあい、休憩時間"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「initiative」の意味は「手始め、主導権」です。"
+  },
+  {
+    "question": "What does 'inn' mean?",
+    "choices": [
+      {
+        "text": "発声、発生率、投射"
+      },
+      {
+        "text": "休止、まくあい、休憩時間"
+      },
+      {
+        "text": "小旅館、小ホテル、宿屋"
+      },
+      {
+        "text": "紹介の、前置きの、序説の、入門的な、予備の"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「inn」の意味は「小旅館、小ホテル、宿屋」です。"
+  },
+  {
+    "question": "What does 'incidence' mean?",
+    "choices": [
+      {
+        "text": "休止、まくあい、休憩時間"
+      },
+      {
+        "text": "紹介の、前置きの、序説の、入門的な、予備の"
+      },
+      {
+        "text": "旅行日程表、旅行計画"
+      },
+      {
+        "text": "発声、発生率、投射"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「incidence」の意味は「発声、発生率、投射」です。"
+  },
+  {
+    "question": "What does 'intermission' mean?",
+    "choices": [
+      {
+        "text": "休止、まくあい、休憩時間"
+      },
+      {
+        "text": "紹介の、前置きの、序説の、入門的な、予備の"
+      },
+      {
+        "text": "旅行日程表、旅行計画"
+      },
+      {
+        "text": "先導する、すぐれた、主要な"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「intermission」の意味は「休止、まくあい、休憩時間」です。"
+  },
+  {
+    "question": "What does 'introductory' mean?",
+    "choices": [
+      {
+        "text": "旅行日程表、旅行計画"
+      },
+      {
+        "text": "紹介の、前置きの、序説の、入門的な、予備の"
+      },
+      {
+        "text": "先導する、すぐれた、主要な"
+      },
+      {
+        "text": "錠前師、かぎ屋"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「introductory」の意味は「紹介の、前置きの、序説の、入門的な、予備の」です。"
+  },
+  {
+    "question": "What does 'itinerary' mean?",
+    "choices": [
+      {
+        "text": "先導する、すぐれた、主要な"
+      },
+      {
+        "text": "錠前師、かぎ屋"
+      },
+      {
+        "text": "旅行日程表、旅行計画"
+      },
+      {
+        "text": "誘惑するもの、魅惑、ルアー"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「itinerary」の意味は「旅行日程表、旅行計画」です。"
+  },
+  {
+    "question": "What does 'leading' mean?",
+    "choices": [
+      {
+        "text": "錠前師、かぎ屋"
+      },
+      {
+        "text": "誘惑するもの、魅惑、ルアー"
+      },
+      {
+        "text": "機能不全、故障"
+      },
+      {
+        "text": "先導する、すぐれた、主要な"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「leading」の意味は「先導する、すぐれた、主要な」です。"
+  },
+  {
+    "question": "What does 'locksmith' mean?",
+    "choices": [
+      {
+        "text": "錠前師、かぎ屋"
+      },
+      {
+        "text": "誘惑するもの、魅惑、ルアー"
+      },
+      {
+        "text": "機能不全、故障"
+      },
+      {
+        "text": "抵当、担保"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「locksmith」の意味は「錠前師、かぎ屋」です。"
+  },
+  {
+    "question": "What does 'lure' mean?",
+    "choices": [
+      {
+        "text": "機能不全、故障"
+      },
+      {
+        "text": "誘惑するもの、魅惑、ルアー"
+      },
+      {
+        "text": "抵当、担保"
+      },
+      {
+        "text": "注目すべき、顕著な、著しい"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「lure」の意味は「誘惑するもの、魅惑、ルアー」です。"
+  },
+  {
+    "question": "What does 'malfunction' mean?",
+    "choices": [
+      {
+        "text": "抵当、担保"
+      },
+      {
+        "text": "注目すべき、顕著な、著しい"
+      },
+      {
+        "text": "機能不全、故障"
+      },
+      {
+        "text": "保育園、託児所、養成所"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「malfunction」の意味は「機能不全、故障」です。"
+  },
+  {
+    "question": "What does 'mortgage' mean?",
+    "choices": [
+      {
+        "text": "注目すべき、顕著な、著しい"
+      },
+      {
+        "text": "保育園、託児所、養成所"
+      },
+      {
+        "text": "支出、経費"
+      },
+      {
+        "text": "抵当、担保"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「mortgage」の意味は「抵当、担保」です。"
+  },
+  {
+    "question": "What does 'noteworthy' mean?",
+    "choices": [
+      {
+        "text": "注目すべき、顕著な、著しい"
+      },
+      {
+        "text": "保育園、託児所、養成所"
+      },
+      {
+        "text": "支出、経費"
+      },
+      {
+        "text": "分解検査する、追いついて追い抜く"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「noteworthy」の意味は「注目すべき、顕著な、著しい」です。"
+  },
+  {
+    "question": "What does 'nursery' mean?",
+    "choices": [
+      {
+        "text": "支出、経費"
+      },
+      {
+        "text": "保育園、託児所、養成所"
+      },
+      {
+        "text": "分解検査する、追いついて追い抜く"
+      },
+      {
+        "text": "パラリーガル、弁護士補助員"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「nursery」の意味は「保育園、託児所、養成所」です。"
+  },
+  {
+    "question": "What does 'outlay' mean?",
+    "choices": [
+      {
+        "text": "分解検査する、追いついて追い抜く"
+      },
+      {
+        "text": "パラリーガル、弁護士補助員"
+      },
+      {
+        "text": "支出、経費"
+      },
+      {
+        "text": "特許、特許品"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「outlay」の意味は「支出、経費」です。"
+  },
+  {
+    "question": "What does 'overhaul' mean?",
+    "choices": [
+      {
+        "text": "パラリーガル、弁護士補助員"
+      },
+      {
+        "text": "特許、特許品"
+      },
+      {
+        "text": "後援、ひいき、愛顧"
+      },
+      {
+        "text": "分解検査する、追いついて追い抜く"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「overhaul」の意味は「分解検査する、追いついて追い抜く」です。"
+  },
+  {
+    "question": "What does 'paralegal' mean?",
+    "choices": [
+      {
+        "text": "パラリーガル、弁護士補助員"
+      },
+      {
+        "text": "特許、特許品"
+      },
+      {
+        "text": "後援、ひいき、愛顧"
+      },
+      {
+        "text": "同僚、仲間、貴族"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「paralegal」の意味は「パラリーガル、弁護士補助員」です。"
+  },
+  {
+    "question": "What does 'patent' mean?",
+    "choices": [
+      {
+        "text": "後援、ひいき、愛顧"
+      },
+      {
+        "text": "特許、特許品"
+      },
+      {
+        "text": "同僚、仲間、貴族"
+      },
+      {
+        "text": "医師、内科医"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「patent」の意味は「特許、特許品」です。"
+  },
+  {
+    "question": "What does 'patronage' mean?",
+    "choices": [
+      {
+        "text": "同僚、仲間、貴族"
+      },
+      {
+        "text": "医師、内科医"
+      },
+      {
+        "text": "後援、ひいき、愛顧"
+      },
+      {
+        "text": "豪華な、ぜいたくな"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「patronage」の意味は「後援、ひいき、愛顧」です。"
+  },
+  {
+    "question": "What does 'peer' mean?",
+    "choices": [
+      {
+        "text": "医師、内科医"
+      },
+      {
+        "text": "豪華な、ぜいたくな"
+      },
+      {
+        "text": "処方箋、おきて、法規"
+      },
+      {
+        "text": "同僚、仲間、貴族"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「peer」の意味は「同僚、仲間、貴族」です。"
+  },
+  {
+    "question": "What does 'physician' mean?",
+    "choices": [
+      {
+        "text": "医師、内科医"
+      },
+      {
+        "text": "豪華な、ぜいたくな"
+      },
+      {
+        "text": "処方箋、おきて、法規"
+      },
+      {
+        "text": "続行する、移る、進む"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「physician」の意味は「医師、内科医」です。"
+  },
+  {
+    "question": "What does 'plush' mean?",
+    "choices": [
+      {
+        "text": "処方箋、おきて、法規"
+      },
+      {
+        "text": "豪華な、ぜいたくな"
+      },
+      {
+        "text": "続行する、移る、進む"
+      },
+      {
+        "text": "校正係"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「plush」の意味は「豪華な、ぜいたくな」です。"
+  },
+  {
+    "question": "What does 'prescription' mean?",
+    "choices": [
+      {
+        "text": "続行する、移る、進む"
+      },
+      {
+        "text": "校正係"
+      },
+      {
+        "text": "処方箋、おきて、法規"
+      },
+      {
+        "text": "姿勢、状況、態度"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「prescription」の意味は「処方箋、おきて、法規」です。"
+  },
+  {
+    "question": "What does 'proceed' mean?",
+    "choices": [
+      {
+        "text": "校正係"
+      },
+      {
+        "text": "姿勢、状況、態度"
+      },
+      {
+        "text": "質問、疑問、疑問符"
+      },
+      {
+        "text": "続行する、移る、進む"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「proceed」の意味は「続行する、移る、進む」です。"
+  },
+  {
+    "question": "What does 'proofreader' mean?",
+    "choices": [
+      {
+        "text": "校正係"
+      },
+      {
+        "text": "姿勢、状況、態度"
+      },
+      {
+        "text": "質問、疑問、疑問符"
+      },
+      {
+        "text": "取り締まる、統制する、調整する"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「proofreader」の意味は「校正係」です。"
+  },
+  {
+    "question": "What does 'posture' mean?",
+    "choices": [
+      {
+        "text": "質問、疑問、疑問符"
+      },
+      {
+        "text": "姿勢、状況、態度"
+      },
+      {
+        "text": "取り締まる、統制する、調整する"
+      },
+      {
+        "text": "摂生、養生法"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「posture」の意味は「姿勢、状況、態度」です。"
+  },
+  {
+    "question": "What does 'query' mean?",
+    "choices": [
+      {
+        "text": "取り締まる、統制する、調整する"
+      },
+      {
+        "text": "摂生、養生法"
+      },
+      {
+        "text": "質問、疑問、疑問符"
+      },
+      {
+        "text": "再び始める、回復する"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「query」の意味は「質問、疑問、疑問符」です。"
+  },
+  {
+    "question": "What does 'regulate' mean?",
+    "choices": [
+      {
+        "text": "摂生、養生法"
+      },
+      {
+        "text": "再び始める、回復する"
+      },
+      {
+        "text": "歳入、総収入、税務局"
+      },
+      {
+        "text": "取り締まる、統制する、調整する"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「regulate」の意味は「取り締まる、統制する、調整する」です。"
+  },
+  {
+    "question": "What does 'regimen' mean?",
+    "choices": [
+      {
+        "text": "摂生、養生法"
+      },
+      {
+        "text": "再び始める、回復する"
+      },
+      {
+        "text": "歳入、総収入、税務局"
+      },
+      {
+        "text": "味つけした、調味した、経験豊かな"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「regimen」の意味は「摂生、養生法」です。"
+  },
+  {
+    "question": "What does 'resume' mean?",
+    "choices": [
+      {
+        "text": "歳入、総収入、税務局"
+      },
+      {
+        "text": "再び始める、回復する"
+      },
+      {
+        "text": "味つけした、調味した、経験豊かな"
+      },
+      {
+        "text": "打ち上げ花火、急騰する"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「resume」の意味は「再び始める、回復する」です。"
+  },
+  {
+    "question": "What does 'revenue' mean?",
+    "choices": [
+      {
+        "text": "味つけした、調味した、経験豊かな"
+      },
+      {
+        "text": "打ち上げ花火、急騰する"
+      },
+      {
+        "text": "歳入、総収入、税務局"
+      },
+      {
+        "text": "惜しんで使わない、節約する、労を惜しむ"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「revenue」の意味は「歳入、総収入、税務局」です。"
+  },
+  {
+    "question": "What does 'seasoned' mean?",
+    "choices": [
+      {
+        "text": "打ち上げ花火、急騰する"
+      },
+      {
+        "text": "惜しんで使わない、節約する、労を惜しむ"
+      },
+      {
+        "text": "流れない、よどんでいる、停滞した、不活発な、不景気な"
+      },
+      {
+        "text": "味つけした、調味した、経験豊かな"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「seasoned」の意味は「味つけした、調味した、経験豊かな」です。"
+  },
+  {
+    "question": "What does 'skyrocket' mean?",
+    "choices": [
+      {
+        "text": "打ち上げ花火、急騰する"
+      },
+      {
+        "text": "惜しんで使わない、節約する、労を惜しむ"
+      },
+      {
+        "text": "流れない、よどんでいる、停滞した、不活発な、不景気な"
+      },
+      {
+        "text": "気絶させる、耳を聞こえなくする、すてきな"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「skyrocket」の意味は「打ち上げ花火、急騰する」です。"
+  },
+  {
+    "question": "What does 'spare' mean?",
+    "choices": [
+      {
+        "text": "流れない、よどんでいる、停滞した、不活発な、不景気な"
+      },
+      {
+        "text": "惜しんで使わない、節約する、労を惜しむ"
+      },
+      {
+        "text": "気絶させる、耳を聞こえなくする、すてきな"
+      },
+      {
+        "text": "外科の、整形用の"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「spare」の意味は「惜しんで使わない、節約する、労を惜しむ」です。"
+  },
+  {
+    "question": "What does 'stagnant' mean?",
+    "choices": [
+      {
+        "text": "気絶させる、耳を聞こえなくする、すてきな"
+      },
+      {
+        "text": "外科の、整形用の"
+      },
+      {
+        "text": "流れない、よどんでいる、停滞した、不活発な、不景気な"
+      },
+      {
+        "text": "きちんとした、整然とした、かなりの"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「stagnant」の意味は「流れない、よどんでいる、停滞した、不活発な、不景気な」です。"
+  },
+  {
+    "question": "What does 'stunning' mean?",
+    "choices": [
+      {
+        "text": "外科の、整形用の"
+      },
+      {
+        "text": "きちんとした、整然とした、かなりの"
+      },
+      {
+        "text": "刈り込んで整える、手入れする、飾りをつける、調節する"
+      },
+      {
+        "text": "気絶させる、耳を聞こえなくする、すてきな"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「stunning」の意味は「気絶させる、耳を聞こえなくする、すてきな」です。"
+  },
+  {
+    "question": "What does 'surgical' mean?",
+    "choices": [
+      {
+        "text": "外科の、整形用の"
+      },
+      {
+        "text": "きちんとした、整然とした、かなりの"
+      },
+      {
+        "text": "刈り込んで整える、手入れする、飾りをつける、調節する"
+      },
+      {
+        "text": "誤植"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「surgical」の意味は「外科の、整形用の」です。"
+  },
+  {
+    "question": "What does 'tidy' mean?",
+    "choices": [
+      {
+        "text": "刈り込んで整える、手入れする、飾りをつける、調節する"
+      },
+      {
+        "text": "きちんとした、整然とした、かなりの"
+      },
+      {
+        "text": "誤植"
+      },
+      {
+        "text": "気が進まない、いやいやながらの"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「tidy」の意味は「きちんとした、整然とした、かなりの」です。"
+  },
+  {
+    "question": "What does 'trim' mean?",
+    "choices": [
+      {
+        "text": "誤植"
+      },
+      {
+        "text": "気が進まない、いやいやながらの"
+      },
+      {
+        "text": "刈り込んで整える、手入れする、飾りをつける、調節する"
+      },
+      {
+        "text": "高価な、大切な"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「trim」の意味は「刈り込んで整える、手入れする、飾りをつける、調節する」です。"
+  },
+  {
+    "question": "What does 'typo' mean?",
+    "choices": [
+      {
+        "text": "気が進まない、いやいやながらの"
+      },
+      {
+        "text": "高価な、大切な"
+      },
+      {
+        "text": "確認、証明"
+      },
+      {
+        "text": "誤植"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「typo」の意味は「誤植」です。"
+  },
+  {
+    "question": "What does 'unwilling' mean?",
+    "choices": [
+      {
+        "text": "気が進まない、いやいやながらの"
+      },
+      {
+        "text": "高価な、大切な"
+      },
+      {
+        "text": "確認、証明"
+      },
+      {
+        "text": "獣医"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「unwilling」の意味は「気が進まない、いやいやながらの」です。"
+  },
+  {
+    "question": "What does 'valuable' mean?",
+    "choices": [
+      {
+        "text": "確認、証明"
+      },
+      {
+        "text": "高価な、大切な"
+      },
+      {
+        "text": "獣医"
+      },
+      {
+        "text": "放棄する、差し控える、先延ばしする"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「valuable」の意味は「高価な、大切な」です。"
+  },
+  {
+    "question": "What does 'verification' mean?",
+    "choices": [
+      {
+        "text": "獣医"
+      },
+      {
+        "text": "放棄する、差し控える、先延ばしする"
+      },
+      {
+        "text": "確認、証明"
+      },
+      {
+        "text": "溶接工、溶接機"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「verification」の意味は「確認、証明」です。"
+  },
+  {
+    "question": "What does 'veterinarian' mean?",
+    "choices": [
+      {
+        "text": "放棄する、差し控える、先延ばしする"
+      },
+      {
+        "text": "溶接工、溶接機"
+      },
+      {
+        "text": "野生生物"
+      },
+      {
+        "text": "獣医"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「veterinarian」の意味は「獣医」です。"
+  },
+  {
+    "question": "What does 'waive' mean?",
+    "choices": [
+      {
+        "text": "放棄する、差し控える、先延ばしする"
+      },
+      {
+        "text": "溶接工、溶接機"
+      },
+      {
+        "text": "野生生物"
+      },
+      {
+        "text": "絞る、ねじる、苦しめる"
+      }
+    ],
+    "correct": 0,
+    "explanation": "「waive」の意味は「放棄する、差し控える、先延ばしする」です。"
+  },
+  {
+    "question": "What does 'welder' mean?",
+    "choices": [
+      {
+        "text": "野生生物"
+      },
+      {
+        "text": "溶接工、溶接機"
+      },
+      {
+        "text": "絞る、ねじる、苦しめる"
+      },
+      {
+        "text": "を収容する、を宿泊させる"
+      }
+    ],
+    "correct": 1,
+    "explanation": "「welder」の意味は「溶接工、溶接機」です。"
+  },
+  {
+    "question": "What does 'wildlife' mean?",
+    "choices": [
+      {
+        "text": "絞る、ねじる、苦しめる"
+      },
+      {
+        "text": "を収容する、を宿泊させる"
+      },
+      {
+        "text": "野生生物"
+      },
+      {
+        "text": "会計学、 計算、経理"
+      }
+    ],
+    "correct": 2,
+    "explanation": "「wildlife」の意味は「野生生物」です。"
+  },
+  {
+    "question": "What does 'wring' mean?",
+    "choices": [
+      {
+        "text": "を収容する、を宿泊させる"
+      },
+      {
+        "text": "会計学、 計算、経理"
+      },
+      {
+        "text": "実際に、本当のところは"
+      },
+      {
+        "text": "絞る、ねじる、苦しめる"
+      }
+    ],
+    "correct": 3,
+    "explanation": "「wring」の意味は「絞る、ねじる、苦しめる」です。"
   }
 ]
